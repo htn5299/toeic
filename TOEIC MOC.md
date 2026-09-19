@@ -34,4 +34,4 @@ tags:
 - [ ] **Part 7:** Đọc hiểu đoạn đơn & đoạn kép/ba
 
 ---
-Trở về: [[Home]]
+Trở về: [[README]]
