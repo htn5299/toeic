@@ -1,0 +1,45 @@
+# ==========================================
+# Obsidian Workspace & Local State
+# ==========================================
+# Trạng thái workspace cá nhân (vị trí tab đang mở, zoom, history...)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache nội bộ của Obsidian
+.obsidian/cache/
+
+# ==========================================
+# OS & System Generated Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ==========================================
+# Editors & IDEs
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Antigravity / AI Agent Artifacts & Cache
+# ==========================================
+.agy/
