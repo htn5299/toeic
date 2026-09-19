@@ -11,6 +11,7 @@ TOEIC Vault
 ├── 📑 TOEIC MOC.md                # Map of Content trung tâm
 ├── 📚 English Grammar in Use/     # Tinh gọn ngữ pháp cho Part 5 & 6
 │   ├── English Grammar in Use MOC.md
+│   ├── Unit 01 - Present Continuous (I am doing)
 │   ├── Unit 02 - Present Simple (I do)
 │   ├── Unit 03 - Present Continuous and Present Simple 1
 │   ├── Unit 04 - Present Continuous and Present Simple 2
@@ -26,6 +27,7 @@ TOEIC Vault
 
 ### 1. 📖 Ngữ Pháp Cốt Lõi (English Grammar in Use)
 Tập trung vào các chủ điểm ngữ pháp hay xuất hiện nhất trong **TOEIC Part 5 & 6**:
+- **Unit 01: Present Continuous (I am doing)** — Bản chất hành động đang diễn ra / xung quanh hiện tại, xu hướng biến đổi (`getting`, `increasing`, `changing`...) và các bẫy đề thi.
 - **Unit 02: Present Simple (I do)** — Thói quen, sự thật hiển nhiên, tần suất và quy tắc chính tả.
 - **Unit 03: Present Continuous vs. Present Simple 1** — Bảng so sánh bản chất tạm thời vs. lâu dài.
 - **Unit 04: Present Continuous vs. Present Simple 2** — Động từ chỉ trạng thái (*Stative verbs*: *know, understand, belong, consist...*), phân biệt `think`, động từ giác quan và cấu trúc cư xử `be being`.
