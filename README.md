@@ -1,57 +1,88 @@
-# 🎯 TOEIC Preparation & Knowledge Vault
+# 🎯 TOEIC Preparation & English Grammar Knowledge Vault
 
-> Kho lưu trữ ghi chú, hệ thống hóa ngữ pháp trọng tâm (English Grammar in Use), bài tập thực hành kèm đáp án chi tiết và từ vựng cốt lõi phục vụ ôn thi chứng chỉ TOEIC. Được thiết kế tối ưu cho **Obsidian** (hỗ trợ Markdown, Mermaid diagrams, Callouts và Internal Links).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Notes](https://img.shields.io/badge/Notes-Obsidian-purple.svg)](https://obsidian.md/)
+[![Grammar](https://img.shields.io/badge/Grammar-English%20Grammar%20in%20Use-blue.svg)](https://www.cambridge.org)
+
+> A structured, comprehensive study vault and digital garden designed for mastering **TOEIC Reading & Listening**, focusing on high-frequency grammar patterns (*English Grammar in Use - Raymond Murphy*), systematic exercises with detailed explanations, and a curated business vocabulary handbook. Optimized for both **Obsidian** and **GitHub**.
 
 ---
 
-## 📌 Tổng Quan Lộ Trình
+## 📌 Repository Architecture
 
-```
+```text
 TOEIC Vault
-├── 📑 TOEIC MOC.md                # Map of Content trung tâm
-├── 📚 English Grammar in Use/     # Tinh gọn ngữ pháp cho Part 5 & 6
-│   ├── English Grammar in Use MOC.md
+├── 📑 TOEIC MOC.md                    # Central Map of Content (Roadmap & Part breakdown)
+├── 📚 English Grammar in Use/         # Core grammar mastery for TOEIC Parts 5 & 6
+│   ├── English Grammar in Use MOC.md  # Grammar table of contents
 │   ├── Unit 01 - Present Continuous (I am doing)
 │   ├── Unit 02 - Present Simple (I do)
 │   ├── Unit 03 - Present Continuous and Present Simple 1
 │   ├── Unit 04 - Present Continuous and Present Simple 2
 │   ├── Unit 05 - Past Simple (I did)
-│   └── ... (Exercises kèm lời giải chi tiết từng Unit)
-└── 🗂️ Vocabulary/                 # Sổ tay từ vựng trọng tâm
-    └── TOEIC Core Vocabulary.md
+│   └── ... (Exercises with interactive collapsible answer keys)
+└── 🗂️ Vocabulary/                     # Essential TOEIC vocabulary bank
+    └── TOEIC Core Vocabulary.md       # High-frequency words, IPA, collocations & word families
 ```
 
 ---
 
-## 📚 Danh Mục Nội Dung
+## 📚 Syllabus & Content Breakdown
 
-### 1. 📖 Ngữ Pháp Cốt Lõi (English Grammar in Use)
-Tập trung vào các chủ điểm ngữ pháp hay xuất hiện nhất trong **TOEIC Part 5 & 6**:
-- **Unit 01: Present Continuous (I am doing)** — Bản chất hành động đang diễn ra / xung quanh hiện tại, xu hướng biến đổi (`getting`, `increasing`, `changing`...) và các bẫy đề thi.
-- **Unit 02: Present Simple (I do)** — Thói quen, sự thật hiển nhiên, tần suất và quy tắc chính tả.
-- **Unit 03: Present Continuous vs. Present Simple 1** — Bảng so sánh bản chất tạm thời vs. lâu dài.
-- **Unit 04: Present Continuous vs. Present Simple 2** — Động từ chỉ trạng thái (*Stative verbs*: *know, understand, belong, consist...*), phân biệt `think`, động từ giác quan và cấu trúc cư xử `be being`.
-- **Unit 05: Past Simple (I did)** — Động từ có quy tắc/bất quy tắc, thể phủ định/nghi vấn (`did / didn't + V-inf`), `was/were` và các dấu hiệu nhận biết thời gian trong đề thi.
+### 1. 📖 Core Grammar System (*English Grammar in Use*)
+Designed specifically to tackle **TOEIC Part 5 (Incomplete Sentences)** and **Part 6 (Text Completion)**:
 
-Mỗi Unit gồm 2 phần:
-1. **Lý thuyết:** Súc tích, sơ đồ tư duy Mermaid, bảng so sánh và các cạm bẫy Part 5 TOEIC.
-2. **Bài tập thực hành:** Chuẩn format từ giáo trình Cambridge, có khung ẩn `🔑 Đáp án & Giải thích` (Obsidian Callout) để tự kiểm tra.
+* **Unit 01: Present Continuous (`I am doing`)**
+  * Actions in progress at the moment of speaking vs. trends around now.
+  * Expressing continuous changes and economic trends (`getting`, `increasing`, `rising`, `changing`).
+* **Unit 02: Present Simple (`I do`)**
+  * Universal truths, routines, permanent states, and adverbs of frequency.
+  * Subject-verb agreement nuances and performative verbs (`promise`, `suggest`, `apologise`).
+* **Unit 03: Present Continuous vs. Present Simple 1**
+  * Comprehensive comparison matrix: Temporary vs. Permanent situations.
+  * Nuances of `always + V-ing` (complaints/annoyances) vs. `always + V` (habits).
+* **Unit 04: Present Continuous vs. Present Simple 2**
+  * Stative verbs that reject continuous forms (`like`, `want`, `know`, `understand`, `belong`, `consist`).
+  * Dual-meaning verbs: `think of` (consider) vs. `think` (believe); sensory verbs (`smell`, `taste`, `see`).
+  * Behavioral nuance: `am/is/are being + Adj` (temporary conduct) vs. `am/is/are + Adj` (inherent trait).
+* **Unit 05: Past Simple (`I did`)**
+  * Regular (`-ed`) and irregular verb forms, negative/interrogative auxiliary inversion (`did / didn't + V-inf`).
+  * TOEIC Part 5 timeline signal markers: `yesterday`, `last...`, `... ago`, `in [past year]`, `when-clause`.
 
-### 2. 🗂️ Từ Vựng Trọng Tâm (Vocabulary)
-- **TOEIC Core Vocabulary:** Sổ tay từ vựng tích lũy qua từng bài học, có phiên âm IPA, từ loại, định nghĩa tiếng Việt, ví dụ thực tế và các họ từ (*Word families*) thường gặp.
+> Every unit is split into two complementary files:
+> - **Theory Note:** Synthesized concepts, Mermaid mental models, comparison tables, and TOEIC exam traps.
+> - **Exercise Workbook:** Direct drills adapted from Cambridge, featuring collapsible `🔑 Answer Key & Explanations` callout blocks.
+
+### 2. 🗂️ Targeted Vocabulary Bank
+* **TOEIC Core Vocabulary:** Iteratively expanded vocabulary companion linking terms encountered in each unit, complete with British/American IPA transcription, part of speech, contextual definitions, corporate/business usage examples, and derivative word families (*synonyms / antonyms*).
 
 ---
 
-## 🛠️ Công Cụ & Cách Sử Dụng Tốt Nhất
+## 🛠️ Tooling & Recommended Environment
 
-Kho tài liệu này được tối ưu hiển thị tốt nhất trên:
-- **[Obsidian](https://obsidian.md/)**: Hỗ trợ liên kết hai chiều (`[[Link]]`), sơ đồ tư duy `mermaid`, hiển thị callout đẹp mắt (`> [!abstract]`, `> [!tip]`, `> [!success]-`).
-- **GitHub**: Xem trực tiếp file markdown với cú pháp chuẩn GitHub-flavored Markdown.
+This repository is crafted to deliver the best reading and interactive experience when paired with:
+
+* **[Obsidian](https://obsidian.md/)**:
+  * Native bidirectional linking (`[[Internal Link]]`) between theory, exercises, and vocabulary.
+  * Interactive callout blocks (`> [!abstract]`, `> [!tip]`, `> [!caution]`, and collapsible `> [!success]-`).
+  * Rendered **Mermaid.js** mindmaps and timeline charts.
+* **GitHub Flavored Markdown (GFM)**: Clean tables, task lists (`- [x]`), math formulas, and code block formatting viewable natively on GitHub.
 
 ---
 
-## 🚀 Kế Hoạch Tiếp Theo (Roadmap)
-- [ ] Hoàn thành trọn bộ các thì còn lại (*Past Continuous, Present Perfect, Future...*).
-- [ ] Bổ sung chuyên đề Mệnh đề quan hệ, Câu điều kiện, Câu bị động và Giới từ.
-- [ ] Xây dựng bộ từ vựng 600 Essential Words for the TOEIC theo từng chủ đề công sở.
-- [ ] Chiến thuật và phân tích bẫy đề thi thử ETS TOEIC Listening & Reading.
+## 🚀 Study Roadmap
+
+- [x] **Phase 1: Present & Past Tenses Foundation** (Units 1 – 5)
+- [ ] **Phase 2: Perfect Tenses & Aspectual Distinctions** (*Present Perfect vs. Past Simple, Continuous aspects*)
+- [ ] **Phase 3: High-Yield TOEIC Structural Modules**
+  - [ ] Passive Voice & Causative Verbs
+  - [ ] Relative Clauses & Reduced Relative Clauses
+  - [ ] Conditionals, Subjunctives, and Inversion
+  - [ ] Participles, Gerunds & Infinitives (`to-V` vs. `V-ing`)
+  - [ ] Prepositions, Conjunctions & Transition Adverbs
+- [ ] **Phase 4: ETS TOEIC Test Bank Practice & Part 7 Reading Drills**
+
+---
+
+## 📄 License
+Content curated for personal academic study and test preparation under the [MIT License](LICENSE).
