@@ -43,3 +43,5 @@ $RECYCLE.BIN/
 # Antigravity / AI Agent Artifacts & Cache
 # ==========================================
 .agy/
+
+books/

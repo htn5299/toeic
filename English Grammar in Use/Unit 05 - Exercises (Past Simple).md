@@ -26,17 +26,17 @@ tags:
 
 Yesterday was a typical working day for Laura. Write what she did or didn't do yesterday:
 1. She `got up` at 7 o'clock. *(Ví dụ)*
-2. She [] a big breakfast.
-3. She [].
-4. It [] to get to work.
-5. [] at 8.45.
-6. [] lunch.
-7. [] at 5 o'clock.
-8. [] tired when [] home.
-9. [] a meal yesterday evening.
-10. [] out yesterday evening.
-11. [] at 11 o'clock.
-12. [] well last night.
+2. She [had] a big breakfast.
+3. She [walked to work].
+4. It [took (her) about half an hour] to get to work.
+5. [She started work] at 8.45.
+6. [She didn't have] lunch.
+7. [She finished work] at 5 o'clock.
+8. [She was] tired when [she got] home.
+9. [She cooked] a meal yesterday evening.
+10. [She didn't go] out yesterday evening.
+11. [She went to bed] at 11 o'clock.
+12. [She slept] well last night.
 
 > [!success]- 🔑 Đáp án & Giải thích 5.1
 > 2. **had** (*have* $\rightarrow$ *had*).
@@ -57,11 +57,11 @@ Yesterday was a typical working day for Laura. Write what she did or didn't do y
 *(Chọn động từ thích hợp và chia ở thì quá khứ đơn: `buy`, `catch`, `cost`, `fall`, `hurt`, `sell`, `spend`, `teach`, `throw`, `write`)*
 
 1. Mozart `wrote` more than 600 pieces of music. *(Ví dụ)*
-2. 'How did you learn to drive?' — 'My father [] me.'
-3. We couldn't afford to keep our car, so we [] it.
-4. Dave [] down the stairs this morning and [] his leg.
-5. Joe [] the ball to Sue, who [] it.
-6. Kate [] a lot of money yesterday. She [] a dress which [] £100.
+2. 'How did you learn to drive?' — 'My father [taught] me.'
+3. We couldn't afford to keep our car, so we [sold] it.
+4. Dave [fell] down the stairs this morning and [hurt] his leg.
+5. Joe [threw] the ball to Sue, who [caught] it.
+6. Kate [spent] a lot of money yesterday. She [bought] a dress which [cost] £100.
 
 > [!success]- 🔑 Đáp án & Giải thích 5.2
 > 2. **taught** (dạy lái xe: *teach* $\rightarrow$ *taught*).
@@ -77,15 +77,15 @@ Yesterday was a typical working day for Laura. Write what she did or didn't do y
 
 1. YOU: `Where did you go?` *(Ví dụ)*  
    JAMES: To the US. We went on a trip from San Francisco to Denver.
-2. YOU: How []? By car?  
+2. YOU: How [did you travel]? By car?  
    JAMES: Yes, we hired a car in San Francisco.
-3. YOU: It's a long way to drive. How long []?  
+3. YOU: It's a long way to drive. How long [did it take]?  
    JAMES: Two weeks. We stopped at a lot of places along the way.
-4. YOU: Where []? In hotels?  
+4. YOU: Where [did you stay]? In hotels?  
    JAMES: Yes, small hotels or motels.
-5. YOU: [] good?  
+5. YOU: [Was the weather] good?  
    JAMES: Yes, but it was very hot — sometimes too hot.
-6. YOU: [] the Grand Canyon?  
+6. YOU: [Did you see] the Grand Canyon?  
    JAMES: Of course. It was wonderful.
 
 > [!success]- 🔑 Đáp án & Giải thích 5.3
@@ -102,14 +102,14 @@ Yesterday was a typical working day for Laura. Write what she did or didn't do y
 
 1. It was warm, so I `took` off my coat. (take) *(Ví dụ)*
 2. The film wasn't very good. I `didn't enjoy` it much. (enjoy) *(Ví dụ)*
-3. I knew Sarah was busy, so I [] her. (disturb)
-4. We were very tired, so we [] the party early. (leave)
-5. It was hard carrying the bags. They [] really heavy. (be)
-6. The bed was very uncomfortable. I [] well. (sleep)
-7. This watch wasn't expensive. It [] much. (cost)
-8. The window was open and a bird [] into the room. (fly)
-9. I was in a hurry, so I [] time to call you. (have)
-10. I didn't like the hotel. The room [] very clean. (be)
+3. I knew Sarah was busy, so I [didn't disturb] her. (disturb)
+4. We were very tired, so we [left] the party early. (leave)
+5. It was hard carrying the bags. They [were] really heavy. (be)
+6. The bed was very uncomfortable. I [didn't sleep] well. (sleep)
+7. This watch wasn't expensive. It [didn't cost] much. (cost)
+8. The window was open and a bird [flew] into the room. (fly)
+9. I was in a hurry, so I [didn't have] time to call you. (have)
+10. I didn't like the hotel. The room [wasn't] very clean. (be)
 
 > [!success]- 🔑 Đáp án & Giải thích 5.4
 > 3. **didn't disturb** (Biết Sarah bận nên tôi đã *không làm phiền* cô ấy).

@@ -87,7 +87,7 @@ tags:
 9. Sam and Tina are in Madrid right now. [they are visiting] (They / visit) a friend of theirs.
 10. 'What [does your father do] (your father / do)?' — 'He's an architect.'
 11. It took me an hour to get to work this morning. Most days [it does't take] (it / not / take) so long.
-12. [i am learning] (I / learn) to drive. My driving test is next month. My father [] (teach) me.
+12. [i am learning] (I / learn) to drive. My driving test is next month. My father [is teaching] (teach) me.
 
 > [!success]- 🔑 Đáp án & Giải thích 3.3
 > 2. **She speaks** (Khả năng ngôn ngữ cố định).

@@ -48,6 +48,15 @@ Designed specifically to tackle **TOEIC Part 5 (Incomplete Sentences)** and **Pa
 * **Unit 05: Past Simple (`I did`)**
   * Regular (`-ed`) and irregular verb forms, negative/interrogative auxiliary inversion (`did / didn't + V-inf`).
   * TOEIC Part 5 timeline signal markers: `yesterday`, `last...`, `... ago`, `in [past year]`, `when-clause`.
+* **Unit 06: Past Continuous (`I was doing`)**
+  * Actions in progress at a specific past point vs. completed actions (`was doing` vs. `did`).
+  * Interrupting actions (`when` + Past Simple, `while` + Past Continuous) and non-continuous verbs.
+* **Unit 07: Present Perfect 1 (`I have done`)**
+  * Past actions with connection/result at present; announcing news/new information.
+  * Crucial TOEIC distinctions: `been to` vs. `gone to`; high-frequency adverbs `just`, `already`, `yet`.
+* **Unit 08: Present Perfect 2 (`I have done`)**
+  * Life experiences (`ever`, `never`), unfinished periods of time (`today`, `this week/year`).
+  * Continuous periods up to now (`recently`, `so far`, `since`) and special patterns (`It's the first time...`).
 
 > Every unit is split into two complementary files:
 > - **Theory Note:** Synthesized concepts, Mermaid mental models, comparison tables, and TOEIC exam traps.

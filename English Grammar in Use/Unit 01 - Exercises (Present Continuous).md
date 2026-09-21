@@ -23,11 +23,11 @@ tags:
 *(Chọn động từ thích hợp và chia ở thì hiện tại tiếp diễn: `cross`, `hide`, `scratch`, `take`, `tie`, `wave`)*
 
 1. She `is taking` a picture. *(Ví dụ)*
-2. He [] a shoelace.
-3. They [] the road.
-4. He [] his head.
-5. She [] behind a tree.
-6. They [] to somebody.
+2. He [is tying] a shoelace.
+3. They [are crossing] the road.
+4. He [is scratching] his head.
+5. She [is hiding] behind a tree.
+6. They [are waving] to somebody.
 
 > [!success]- 🔑 Đáp án & Giải thích 1.1
 > 2. **is tying** / **'s tying** (đang buộc dây giày: *tie* $\rightarrow$ *tying* đổi `ie` thành `y`).
@@ -44,13 +44,13 @@ tags:
 | Câu bên trái (1 - 8) | Câu bên phải (a - h) |
 | :--- | :--- |
 | 1. Please don't make so much noise. $\rightarrow$ `[f]` *(Ví dụ)* | a. I'm getting hungry. |
-| 2. We need to leave soon. $\rightarrow$ [] | b. They're lying. |
-| 3. I don't have anywhere to live right now. $\rightarrow$ [] | c. It's starting to rain. |
-| 4. I need to eat something soon. $\rightarrow$ [] | d. They're trying to sell it. |
-| 5. They don't need their car any more. $\rightarrow$ [] | e. It's getting late. |
-| 6. Things are not so good at work. $\rightarrow$ [] | f. I'm trying to work. |
-| 7. It isn't true what they say. $\rightarrow$ [] | g. I'm staying with friends. |
-| 8. We're going to get wet. $\rightarrow$ [] | h. The company is losing money. |
+| 2. We need to leave soon. $\rightarrow$ [e] | b. They're lying. |
+| 3. I don't have anywhere to live right now. $\rightarrow$ [g] | c. It's starting to rain. |
+| 4. I need to eat something soon. $\rightarrow$ [a] | d. They're trying to sell it. |
+| 5. They don't need their car any more. $\rightarrow$ [d] | e. It's getting late. |
+| 6. Things are not so good at work. $\rightarrow$ [h] | f. I'm trying to work. |
+| 7. It isn't true what they say. $\rightarrow$ [b] | g. I'm staying with friends. |
+| 8. We're going to get wet. $\rightarrow$ [c] | h. The company is losing money. |
 
 > [!success]- 🔑 Đáp án & Giải thích 1.2
 > 2. **e** (*It's getting late* — Cần đi sớm vì trời sắp muộn rồi).
@@ -67,13 +67,13 @@ tags:
 *(Dùng các từ gợi ý để viết câu hỏi ở thì hiện tại tiếp diễn)*
 
 1. What's all that noise? `What's happening?` (what / happen?) *(Ví dụ)*
-2. What's the matter? [] (why / you / cry?)
-3. Where's your mother? [] (she / work / today?)
-4. I haven't seen you for ages. [] (what / you / do / these days?)
-5. Amy is a student. [] (what / she / study?)
-6. Who are those people? [] (what / they / do?)
-7. I heard you started a new job. [] (you / enjoy / it?)
-8. We're not in a hurry. [] (why / you / walk / so fast?)
+2. What's the matter? [Why are you crying?] (why / you / cry?)
+3. Where's your mother? [Is she working today?] (she / work / today?)
+4. I haven't seen you for ages. [What are you doing these days?] (what / you / do / these days?)
+5. Amy is a student. [What is she studying?] (what / she / study?)
+6. Who are those people? [What are they doing?] (what / they / do?)
+7. I heard you started a new job. [Are you enjoying it?] (you / enjoy / it?)
+8. We're not in a hurry. [Why are you walking so fast?] (why / you / walk / so fast?)
 
 > [!success]- 🔑 Đáp án & Giải thích 1.3
 > 2. **Why are you crying?** (Sao bạn lại đang khóc thế?).
@@ -91,18 +91,18 @@ tags:
 
 1. Please don't make so much noise. `I'm trying` (I / try) to work. *(Ví dụ)*
 2. Let's go out now. `It isn't raining` (it / rain) any more. *(Ví dụ)*
-3. You can turn off the radio. [] (I / listen) to it.
-4. Kate phoned last night. She's on holiday with friends. [] (She / have) a great time and doesn't want to come back.
-5. Andrew started evening classes recently. [] (He / learn) Japanese.
-6. Paul and Sarah have had an argument and now [] (they / speak) to one another.
-7. The situation is already very bad and now [] (it / get) worse.
-8. Tim [] (work) today. He's taken the day off.
-9. [] (I / look) for Sophie. Do you know where she is?
-10. The washing machine has been repaired. [] (It / work) now.
-11. [] (They / build) a new hospital. It will be finished next year.
-12. Ben is a student, but he's not very happy. [] (He / enjoy) his course.
-13. [] (The weather / change). Look at those clouds. I think it's going to rain.
-14. Dan has been in the same job for a long time. [] (He / start) to get bored with it.
+3. You can turn off the radio. [I'm not listening] (I / listen) to it.
+4. Kate phoned last night. She's on holiday with friends. [She's having] (She / have) a great time and doesn't want to come back.
+5. Andrew started evening classes recently. [He's learning] (He / learn) Japanese.
+6. Paul and Sarah have had an argument and now [they aren't speaking] (they / speak) to one another.
+7. The situation is already very bad and now [it's getting] (it / get) worse.
+8. Tim [isn't working] (work) today. He's taken the day off.
+9. [I'm looking] (I / look) for Sophie. Do you know where she is?
+10. The washing machine has been repaired. [It's working] (It / work) now.
+11. [They're building] (They / build) a new hospital. It will be finished next year.
+12. Ben is a student, but he's not very happy. [He isn't enjoying] (He / enjoy) his course.
+13. [The weather is changing] (The weather / change). Look at those clouds. I think it's going to rain.
+14. Dan has been in the same job for a long time. [He's starting] (He / start) to get bored with it.
 
 > [!success]- 🔑 Đáp án & Giải thích 1.4
 > 3. **I'm not listening** / **I am not listening** (Tôi không nghe đài đâu, tắt đi được rồi).
