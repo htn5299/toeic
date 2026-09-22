@@ -45,6 +45,31 @@ tags:
   - ✍️ [[Unit 07 - Exercises (Present Perfect 1)|Bài tập thực hành Unit 7]] *(100% Hoàn thành)*
 - [x] **[[Unit 08 - Present Perfect 2 (I have done)|Unit 8: Present Perfect 2 (I have done)]]**
   - ✍️ [[Unit 08 - Exercises (Present Perfect 2)|Bài tập thực hành Unit 8]] *(100% Hoàn thành)*
+- [ ] **[[Unit 09 - Present Perfect Continuous (I have been doing)|Unit 9: Present Perfect Continuous (I have been doing)]]**
+  - ✍️ [[Unit 09 - Exercises (Present Perfect Continuous)|Bài tập thực hành Unit 9]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 10 - Present Perfect Continuous and Simple (I have been doing and I have done)|Unit 10: Present Perfect Continuous and Simple]]**
+  - ✍️ [[Unit 10 - Exercises (Present Perfect Continuous and Simple)|Bài tập thực hành Unit 10]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 11 - how long have you (been)|Unit 11: how long have you (been) … ?]]**
+  - ✍️ [[Unit 11 - Exercises (how long have you been)|Bài tập thực hành Unit 11]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 12 - for and since (when and how long)|Unit 12: for and since — when … ? and how long … ?]]**
+  - ✍️ [[Unit 12 - Exercises (for and since)|Bài tập thực hành Unit 12]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 13 - Present Perfect and Past 1 (I have done and I did)|Unit 13: Present Perfect and Past 1 (I have done and I did)]]**
+  - ✍️ [[Unit 13 - Exercises (Present Perfect and Past 1)|Bài tập thực hành Unit 13]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 14 - Present Perfect and Past 2 (I have done and I did)|Unit 14: Present Perfect and Past 2 (I have done and I did)]]**
+  - ✍️ [[Unit 14 - Exercises (Present Perfect and Past 2)|Bài tập thực hành Unit 14]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 15 - Past Perfect (I had done)|Unit 15: Past Perfect (I had done)]]**
+  - ✍️ [[Unit 15 - Exercises (Past Perfect)|Bài tập thực hành Unit 15]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 16 - Past Perfect Continuous (I had been doing)|Unit 16: Past Perfect Continuous (I had been doing)]]**
+  - ✍️ [[Unit 16 - Exercises (Past Perfect Continuous)|Bài tập thực hành Unit 16]] *(Đang học — 22/09/2026)*
+
+---
+
+## 🔗 Động từ & Thói quen (have / used to)
+
+- [ ] **[[Unit 17 - have and have got|Unit 17: have and have got]]**
+  - ✍️ [[Unit 17 - Exercises (have and have got)|Bài tập thực hành Unit 17]] *(Đang học — 22/09/2026)*
+- [ ] **[[Unit 18 - used to (do)|Unit 18: used to (do)]]**
+  - ✍️ [[Unit 18 - Exercises (used to)|Bài tập thực hành Unit 18]] *(Đang học — 22/09/2026)*
 
 ---
 Trở về: [[TOEIC MOC]] | [[README]]

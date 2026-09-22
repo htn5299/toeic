@@ -102,6 +102,58 @@ tags:
 | **For ages** | *idiom*<br>/fɔːr ˈeɪdʒɪz/ | Đã từ lâu lắm rồi | *I haven't seen our regional director **for ages**.* | Bằng nghĩa với **for a long time**. |
 
 ---
+
+## 📌 Unit 9 & 10: Present Perfect Continuous (I have been doing)
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Steadily** | *adverb*<br>/ˈstedəli/ | Đều đặn, ổn định | *Sales **have been growing steadily** over the past two quarters.* | Trạng từ vàng đi kèm xu hướng tăng/giảm trong Part 7 (biểu đồ). Tính từ: **steady**. |
+| **Rise** | *verb / noun*<br>/raɪz/ | Tăng lên, dâng lên | *Operating costs **have been rising** sharply since the merger.* | Bất quy tắc: *rise – rose – risen*. Phân biệt **raise** (ngoại động từ: *raise prices*). |
+| **Climb** | *verb*<br>/klaɪm/ | Leo lên, tăng lên | *Electricity costs **have been climbing** for six months.* | Đồng nghĩa tăng: **increase / rise / climb / go up**. |
+| **Decline** | *verb / noun*<br>/dɪˈklaɪn/ | Giảm sút, suy giảm | *Demand **has been declining** recently.* | Đồng nghĩa giảm: **decrease / fall / drop**. Cũng có nghĩa "từ chối" (*decline an offer*). |
+| **Operating costs** | *noun phrase*<br>/ˈɒpəreɪtɪŋ kɒsts/ | Chi phí vận hành | *The firm **has been cutting** its **operating costs**.* | Chủ đề kinh doanh cực phổ biến ở Part 6 & 7. |
+| **Quarterly report** | *noun phrase*<br>/ˈkwɔːtəli rɪˈpɔːt/ | Báo cáo theo quý | *I**'ve been preparing** the **quarterly report** all day.* | `quarterly` = mỗi quý; `annually` = mỗi năm; `monthly` = mỗi tháng. |
+| **Renovate** | *verb*<br>/ˈrenəveɪt/ | Cải tạo, sửa chữa lớn | *They**'ve been renovating** the lobby since March.* | Danh từ: **renovation** (*The office is under renovation*). |
+| **Merger** | *noun*<br>/ˈmɜːdʒə/ | Sự sáp nhập (công ty) | *The CEO **has been considering** a **merger** with a Japanese firm.* | Động từ: **merge** (*merge with / merge into*). Chủ đề Part 7 kinh doanh. |
+| **Supplier** | *noun*<br>/səˈplaɪə/ | Nhà cung cấp | *We**'ve been looking** for a new **supplier** for several months.* | Động từ: **supply** (*supply A with B*). Hay gặp ở Part 3 (đặt hàng, giao hàng). |
+| **Submit** | *verb*<br>/səbˈmɪt/ | Nộp, đệ trình | *The team **has submitted** the proposal, so we can proceed.* | Danh từ: **submission**. Đi với **submit A to B**. |
+| **Approve** | *verb*<br>/əˈpruːv/ | Phê duyệt, chấp thuận | *The manager **has approved** the budget.* | Danh từ: **approval** (*await approval*). Phân biệt **approve of** (tán thành). |
+| **Complaint** | *noun*<br>/kəmˈpleɪnt/ | Lời phàn nàn, khiếu nại | *Customer **complaints have been increasing** sharply.* | Động từ: **complain** (*complain about something to someone*). |
+
+---
+
+## 📌 Unit 11 & 12: how long / for and since
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Vacant** | *adjective*<br>/ˈveɪkənt/ | Trống, chưa có người | *The position has been **vacant** for six months.* | Danh từ: **vacancy** (*a job vacancy*). Rất hay gặp ở Part 7 (tin tuyển dụng). |
+| **Decade** | *noun*<br>/ˈdekeɪd/ | Thập kỷ (10 năm) | *We have been partners for over a **decade**.* | Cụm chỉ thời gian hay đi với `for`: *for over a decade*. |
+| **Campaign** | *noun / verb*<br>/kæmˈpeɪn/ | Chiến dịch; thực hiện chiến dịch | *Sales have doubled since the new **campaign** was launched.* | Đi với **launch / run a campaign** (khởi động/chạy chiến dịch). |
+| **Launch** | *verb / noun*<br>/lɔːntʃ/ | Tung ra, khởi động; sự ra mắt | *The company **has launched** three products since 2023.* | Bẫy: `since` + mệnh đề ở **bị động quá khứ** (*since the product was launched*). |
+| **Branch** | *noun*<br>/brɑːntʃ/ | Chi nhánh | *How long has Ms. Park worked in the Seoul **branch**?* | Đi với **headquarters** (trụ sở chính). |
+| **Expansion** | *noun*<br>/ɪkˈspænʃn/ | Sự mở rộng | *The firm **has expanded** rapidly over the past three years.* | Động từ: **expand** (*expand into a new market*). |
+| **Loyalty program** | *noun phrase*<br>/ˈlɔɪəlti ˈprəʊɡræm/ | Chương trình khách hàng thân thiết | *How long have you been a member of our **loyalty program**?* | Dạng câu hỏi `How long have you been…?` rất hay gặp ở Part 6 (email khảo sát). |
+| **Turnover** | *noun*<br>/ˈtɜːnəʊvə/ | Doanh thu; tỉ lệ nhân viên thay đổi | *Our **turnover has been rising** since the rebranding.* | Phân biệt **turnover** (doanh thu) với **profit** (lợi nhuận). |
+
+---
+
+## 📌 Unit 13–18: Present perfect vs past · Past perfect · used to
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Audit** | *noun / verb*<br>/ˈɔːdɪt/ | Sự kiểm toán; kiểm toán | *By the time the **auditors** arrived, we had prepared all the documents.* | Chủ đề Part 7 tài chính; danh từ chỉ người: **auditor**. |
+| **Deadline** | *noun*<br>/ˈdedlaɪn/ | Hạn chót | *She had finished the proposal before the **deadline**.* | Đi với **meet / miss a deadline**. |
+| **Postpone** | *verb*<br>/pəˈspəʊn/ | Hoãn lại | *The meeting **was postponed** because the director had been called away.* | Đồng nghĩa **put off**; danh từ **postponement**. |
+| **Restructure** | *verb*<br>/ˌriːˈstrʌktʃə/ | Tái cơ cấu, tổ chức lại | *The company had been losing money for years before it **was restructured**.* | Danh từ: **restructuring**. Chủ đề Part 7 kinh doanh. |
+| **Bankrupt** | *adjective*<br>/ˈbæŋkrʌpt/ | Phá sản | *The supplier **went bankrupt** after the contract had been cancelled.* | Cụm cố định: **go bankrupt**. |
+| **Previously** | *adverb*<br>/ˈpriːviəsli/ | Trước đó, trước đây | *The position **had previously been** held by Ms. Chen.* | Tính từ: **previous** (*the previous manager*). Dấu hiệu hay đi với **past perfect**. |
+| **Formerly** | *adverb*<br>/ˈfɔːməli/ | Trước kia (nay không còn) | *The building **formerly** housed a bank.* | Hay đi cùng cấu trúc **used to**: *The site **used to be** a factory.* |
+| **Accustomed to** | *adjective phrase*<br>/əˈkʌstəmd tu/ | Quen với | *New staff soon **get accustomed to** the reporting system.* | Bằng nghĩa **be used to + V-ing** — bẫy kinh điển với **used to + V**. |
+| **Obligation** | *noun*<br>/ˌɒblɪˈɡeɪʃn/ | Nghĩa vụ, bổn phận | *All employees **have** an **obligation to** follow safety rules.* | Động từ: **oblige**; cấu trúc **be obliged to + V**. |
+| **In possession of** | *phrase*<br>/ɪn pəˈzeʃn əv/ | Đang sở hữu, nắm giữ | *Applicants must **be in possession of** a valid work permit.* | Đi với `have / have got`; trang trọng hơn **have**. |
+
+---
+
 Trở về: [[TOEIC MOC]] | [[English Grammar in Use MOC]]
 
 ---
