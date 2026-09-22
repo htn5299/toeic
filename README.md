@@ -156,16 +156,19 @@ This repository is crafted to deliver the best reading and interactive experienc
 
 ## Study Roadmap
 
-- [x] **Phase 1: Present & Past Tenses Foundation** (Units 1-6)
-- [x] **Phase 2: Perfect Tenses & Aspectual Distinctions** (Units 7-18)
-- [ ] **Phase 3: High-Yield TOEIC Structural Modules** (Units 19-145)
-  - [ ] Future forms and Modals
-  - [ ] Passive Voice & Causative Verbs
-  - [ ] Relative Clauses & Reduced Relative Clauses
-  - [ ] Conditionals, Subjunctives, and Inversion
-  - [ ] Participles, Gerunds & Infinitives (`to-V` vs. `V-ing`)
-  - [ ] Prepositions, Conjunctions & Transition Adverbs
-- [ ] **Phase 4: ETS TOEIC Test Bank Practice & Part 7 Reading Drills**
+The plan is a **13-week / 65-session** schedule (Monday-Friday) running from **14/09/2026 to 11/12/2026**, split into four phases (Chặng). This table mirrors the `Tổng quan` sheet of `Lo_trinh_TOEIC_13_tuan_65_buoi_FINAL.xlsm` - that workbook is the source of truth.
+
+| Phase | Weeks | Dates | Score milestone | Focus books | Tactics / ETS | Main goal | Required output |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Chặng 1 - Nền tảng** (Foundation) | Weeks 1–3 | 14/09–02/10/2026 | 0 → ~250/300 | English Grammar in Use · 600 Essential Words · Pronunciation Elementary | No Tactics yet; basic pre-TOEIC only | Build the tense, modal and word-class foundation; first 12 vocabulary lessons; basic sounds, stress, linking, intonation | Weekly mini quiz >= 80%; short-sentence reading; numbers, dates and times by ear; Error Log started |
+| **Chặng 2 - Làm quen TOEIC** (Getting to know TOEIC) | Weeks 4–6 | 05/10–23/10/2026 | ~250/300 → ~350/400 | EGIU + 600 Words · Pronunciation Intermediate · Tactics for TOEIC L&R | Tactics U1–U12 · ETS mini set at the end of the phase | Study Tactics unit by unit; cover Parts 1–7 once; sharpen connected-speech reflexes | Tactics U1–U12 done; mini sets for Parts 1–3 and 5–6; fewer repeated grammar mistakes |
+| **Chặng 3 - Phát triển kỹ năng** (Skill building) | Weeks 7–9 | 26/10–13/11/2026 | ~350/400 → ~450/500 | Tactics + Pronunciation Intermediate · 600 Words + EGIU by error | Tactics U13–U24 · ETS half tests | Second Tactics round; paraphrase, inference and scanning; LC/RC timing per part | Tactics U13–U24 done; 1 half Listening + 1 half Reading; vocabulary notebook in active use |
+| **Chặng 4 - Luyện ETS & tăng tốc** (ETS practice & acceleration) | Weeks 10–13 | 16/11–11/12/2026 | ~450/500 → ~550/600 (stretch 650) | ETS Official as the core · Tactics repair · selected Pronunciation Advanced | Tactics U25–U28 + review · ETS Full Tests 1–5 | Finish Tactics; shift the focus to ETS, timing, error analysis and data-driven repair | 5 full tests; 100% of errors reviewed; grammar cheat sheet; Error Log and vocabulary notebook complete |
+
+### Grammar notes written to the vault
+
+- [x] **Units 01–18** - theory and exercises for every unit (Present and past, Present perfect and past, have/have got, used to)
+- [ ] **Units 19–145** - Future forms, Modals, Passive, Reported speech, Questions, `-ing` and `to`, Articles and nouns, Pronouns and determiners, Relative clauses, Adjectives and adverbs, Conjunctions, Prepositions, Phrasal verbs
 
 ---
 
