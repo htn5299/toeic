@@ -1,12 +1,7 @@
 # ==========================================
 # Obsidian Workspace & Local State
 # ==========================================
-# Trạng thái workspace cá nhân (vị trí tab đang mở, zoom, history...)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# Cache nội bộ của Obsidian
-.obsidian/cache/
+.obsidian/
 
 # ==========================================
 # OS & System Generated Files
