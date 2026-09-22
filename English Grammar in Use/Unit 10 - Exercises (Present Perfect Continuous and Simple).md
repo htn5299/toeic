@@ -65,7 +65,25 @@ tags:
 
 ---
 
-## Exercise 10.3: TOEIC Part 5 Mini-drill — chọn đáp án đúng nhất.
+## Exercise 10.3: Viết 4 câu về công việc học TOEIC của bạn.
+*(Dùng cả hai dạng: 2 câu `I've been + V-ing` cho quá trình, 2 câu `I've + V3` cho kết quả)*
+
+> **Gợi ý:** `study English`, `review grammar units`, `learn new words`, `take practice tests`, `watch English videos`, `finish exercises`
+
+1. `I've been studying English for six months.` *(Ví dụ — quá trình)*
+2. [I've been reviewing grammar units every day.]
+3. [I've been learning new words with flashcards.]
+4. [I've finished eight grammar units this month.]
+5. [I've taken three practice tests so far.]
+
+> [!success]- 🔑 Đáp án & Giải thích 10.3 (gợi ý)
+> - **Quá trình (have been + V-ing):** *I've been studying English for six months.* / *I've been reviewing grammar units every day.* / *I've been learning new words with flashcards.*
+> - **Kết quả (have + V3):** *I've finished eight grammar units this month.* / *I've taken three practice tests so far.* / *I've learned 120 new words so far.*
+> - Tự kiểm tra: câu **quá trình** thường đi với `every day / for + thời gian / all week`; câu **kết quả** thường đi với `so far / this month / số lượng cụ thể`.
+
+---
+
+## Exercise 10.4: TOEIC Part 5 Mini-drill — chọn đáp án đúng nhất.
 
 1. The research team \_\_\_\_\_\_ the survey results, so the report can be submitted today.  
    (A) has been analyzing · (B) has analyzed · (C) is analyzing · (D) analyzes  
@@ -83,30 +101,12 @@ tags:
    (A) have been processing · (B) have processed · (C) process · (D) processed  
    $\rightarrow$ [B]
 
-> [!success]- 🔑 Đáp án & Giải thích 10.3
+> [!success]- 🔑 Đáp án & Giải thích 10.4
 > 1. **(B) has analyzed** — `so the report can be submitted today` = **kết quả đã hoàn tất**.
 > 2. **(C) has been working** — `since she graduated` + hành động còn tiếp diễn; `Ms. Okafor` số ít $\rightarrow$ `has been working`.
 > 3. **(C) have known** — **bẫy stative verb**: `know` không chia tiếp diễn; loại (A) ~~have been knowing~~, loại (D) ~~am knowing~~.
 > 4. **(A) have been climbing** — `over the past six months` + xu hướng đang tăng $\rightarrow$ Hiện tại hoàn thành **tiếp diễn**; `costs` số nhiều $\rightarrow$ `have been climbing`.
 > 5. **(B) have processed** — vế sau `it will be shipped tomorrow` cho thấy việc xử lý **đã xong**; `have been processing` sẽ ngụ ý *vẫn đang xử lý, chưa xong*.
-
----
-
-## Exercise 10.4: Viết 4 câu về công việc học TOEIC của bạn.
-*(Dùng cả hai dạng: 2 câu `I've been + V-ing` cho quá trình, 2 câu `I've + V3` cho kết quả)*
-
-> **Gợi ý:** `study English`, `review grammar units`, `learn new words`, `take practice tests`, `watch English videos`, `finish exercises`
-
-1. `I've been studying English for six months.` *(Ví dụ — quá trình)*
-2. [I've been reviewing grammar units every day.]
-3. [I've been learning new words with flashcards.]
-4. [I've finished eight grammar units this month.]
-5. [I've taken three practice tests so far.]
-
-> [!success]- 🔑 Đáp án & Giải thích 10.4 (gợi ý)
-> - **Quá trình (have been + V-ing):** *I've been studying English for six months.* / *I've been reviewing grammar units every day.* / *I've been learning new words with flashcards.*
-> - **Kết quả (have + V3):** *I've finished eight grammar units this month.* / *I've taken three practice tests so far.* / *I've learned 120 new words so far.*
-> - Tự kiểm tra: câu **quá trình** thường đi với `every day / for + thời gian / all week`; câu **kết quả** thường đi với `so far / this month / số lượng cụ thể`.
 
 ---
 

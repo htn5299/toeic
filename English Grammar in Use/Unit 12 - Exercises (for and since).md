@@ -54,7 +54,7 @@ tags:
 > 2. **How long has Tom worked here?** (hoặc *has Tom been working here?*) — hỏi khoảng thời gian $\rightarrow$ Present Perfect.
 > 3. **When was the company founded?** — hỏi mốc thời gian $\rightarrow$ Past Simple + bị động.
 > 4. **How long has the customer been waiting?** — hành động kéo dài $\rightarrow$ tiếp diễn.
-> 5. **Since when have prices been rising?** — hỏi mốc bắt đầu của một xu hướng đang tiếp diễn.
+> 5. **Since when have prices been rising?** — hỏi mốc bắt đầu của một xu hướng đang tiếp diễn (cũng đúng: **When did prices start rising?** — hỏi mốc thời gian $\rightarrow$ Past Simple).
 
 ---
 

@@ -45,14 +45,14 @@ tags:
   - ✍️ [[Unit 07 - Exercises (Present Perfect 1)|Bài tập thực hành Unit 7]] *(100% Hoàn thành)*
 - [x] **[[Unit 08 - Present Perfect 2 (I have done)|Unit 8: Present Perfect 2 (I have done)]]**
   - ✍️ [[Unit 08 - Exercises (Present Perfect 2)|Bài tập thực hành Unit 8]] *(100% Hoàn thành)*
-- [ ] **[[Unit 09 - Present Perfect Continuous (I have been doing)|Unit 9: Present Perfect Continuous (I have been doing)]]**
-  - ✍️ [[Unit 09 - Exercises (Present Perfect Continuous)|Bài tập thực hành Unit 9]] *(Đang học — 22/09/2026)*
-- [ ] **[[Unit 10 - Present Perfect Continuous and Simple (I have been doing and I have done)|Unit 10: Present Perfect Continuous and Simple]]**
-  - ✍️ [[Unit 10 - Exercises (Present Perfect Continuous and Simple)|Bài tập thực hành Unit 10]] *(Đang học — 22/09/2026)*
-- [ ] **[[Unit 11 - how long have you (been)|Unit 11: how long have you (been) … ?]]**
-  - ✍️ [[Unit 11 - Exercises (how long have you been)|Bài tập thực hành Unit 11]] *(Đang học — 22/09/2026)*
-- [ ] **[[Unit 12 - for and since (when and how long)|Unit 12: for and since — when … ? and how long … ?]]**
-  - ✍️ [[Unit 12 - Exercises (for and since)|Bài tập thực hành Unit 12]] *(Đang học — 22/09/2026)*
+- [x] **[[Unit 09 - Present Perfect Continuous (I have been doing)|Unit 9: Present Perfect Continuous (I have been doing)]]**
+  - ✍️ [[Unit 09 - Exercises (Present Perfect Continuous)|Bài tập thực hành Unit 9]] *(100% Hoàn thành — 23/09/2026)*
+- [x] **[[Unit 10 - Present Perfect Continuous and Simple (I have been doing and I have done)|Unit 10: Present Perfect Continuous and Simple]]**
+  - ✍️ [[Unit 10 - Exercises (Present Perfect Continuous and Simple)|Bài tập thực hành Unit 10]] *(100% Hoàn thành — 23/09/2026)*
+- [x] **[[Unit 11 - how long have you (been)|Unit 11: how long have you (been) … ?]]**
+  - ✍️ [[Unit 11 - Exercises (how long have you been)|Bài tập thực hành Unit 11]] *(100% Hoàn thành — 23/09/2026)*
+- [x] **[[Unit 12 - for and since (when and how long)|Unit 12: for and since — when … ? and how long … ?]]**
+  - ✍️ [[Unit 12 - Exercises (for and since)|Bài tập thực hành Unit 12]] *(100% Hoàn thành — 23/09/2026)*
 - [ ] **[[Unit 13 - Present Perfect and Past 1 (I have done and I did)|Unit 13: Present Perfect and Past 1 (I have done and I did)]]**
   - ✍️ [[Unit 13 - Exercises (Present Perfect and Past 1)|Bài tập thực hành Unit 13]] *(Đang học — 22/09/2026)*
 - [ ] **[[Unit 14 - Present Perfect and Past 2 (I have done and I did)|Unit 14: Present Perfect and Past 2 (I have done and I did)]]**
