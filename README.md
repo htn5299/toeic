@@ -1,4 +1,4 @@
-# 🎯 TOEIC Preparation & English Grammar Knowledge Vault
+# TOEIC Preparation & English Grammar Knowledge Vault
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Notes](https://img.shields.io/badge/Notes-Obsidian-purple.svg)](https://obsidian.md/)
@@ -8,12 +8,12 @@
 
 ---
 
-## 📌 Repository Architecture
+## Repository Architecture
 
 ```text
 TOEIC Vault
-├── 📑 TOEIC MOC.md                    # Central Map of Content (Roadmap & Part breakdown)
-├── 📚 English Grammar in Use/         # Core grammar mastery for TOEIC Parts 5 & 6
+├── TOEIC MOC.md                    # Central Map of Content (Roadmap & Part breakdown)
+├── English Grammar in Use/         # Core grammar mastery for TOEIC Parts 5 & 6
 │   ├── English Grammar in Use MOC.md  # Grammar table of contents
 │   ├── Unit 01 - Present Continuous (I am doing)
 │   ├── Unit 02 - Present Simple (I do)
@@ -21,15 +21,15 @@ TOEIC Vault
 │   ├── Unit 04 - Present Continuous and Present Simple 2
 │   ├── Unit 05 - Past Simple (I did)
 │   └── ... (Exercises with interactive collapsible answer keys)
-└── 🗂️ Vocabulary/                     # Essential TOEIC vocabulary bank
-    └── TOEIC Core Vocabulary.md       # High-frequency words, IPA, collocations & word families
+└── Vocabulary/                     # Essential TOEIC vocabulary bank
+    └── TOEIC Core Vocabulary.md    # High-frequency words, IPA, collocations & word families
 ```
 
 ---
 
-## 📚 Syllabus & Content Breakdown
+## Syllabus & Content Breakdown
 
-### 1. 📖 Core Grammar System (*English Grammar in Use*)
+### 1. Core Grammar System (*English Grammar in Use*)
 Designed specifically to tackle **TOEIC Part 5 (Incomplete Sentences)** and **Part 6 (Text Completion)**:
 
 * **Unit 01: Present Continuous (`I am doing`)**
@@ -60,14 +60,14 @@ Designed specifically to tackle **TOEIC Part 5 (Incomplete Sentences)** and **Pa
 
 > Every unit is split into two complementary files:
 > - **Theory Note:** Synthesized concepts, Mermaid mental models, comparison tables, and TOEIC exam traps.
-> - **Exercise Workbook:** Direct drills adapted from Cambridge, featuring collapsible `🔑 Answer Key & Explanations` callout blocks.
+> - **Exercise Workbook:** Direct drills adapted from Cambridge, featuring collapsible `Answer Key & Explanations` callout blocks.
 
-### 2. 🗂️ Targeted Vocabulary Bank
+### 2. Targeted Vocabulary Bank
 * **TOEIC Core Vocabulary:** Iteratively expanded vocabulary companion linking terms encountered in each unit, complete with British/American IPA transcription, part of speech, contextual definitions, corporate/business usage examples, and derivative word families (*synonyms / antonyms*).
 
 ---
 
-## 🛠️ Tooling & Recommended Environment
+## Tooling & Recommended Environment
 
 This repository is crafted to deliver the best reading and interactive experience when paired with:
 
@@ -79,7 +79,7 @@ This repository is crafted to deliver the best reading and interactive experienc
 
 ---
 
-## 🚀 Study Roadmap
+## Study Roadmap
 
 - [x] **Phase 1: Present & Past Tenses Foundation** (Units 1 – 5)
 - [ ] **Phase 2: Perfect Tenses & Aspectual Distinctions** (*Present Perfect vs. Past Simple, Continuous aspects*)
@@ -93,5 +93,5 @@ This repository is crafted to deliver the best reading and interactive experienc
 
 ---
 
-## 📄 License
+## License
 Content curated for personal academic study and test preparation under the [MIT License](LICENSE).
