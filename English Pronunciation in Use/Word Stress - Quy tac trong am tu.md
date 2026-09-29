@@ -126,4 +126,4 @@ graph TD
 > | `ˈthirty` | âm 1 | `-ty` = trọng âm âm 1 |
 
 ---
-Trở về: [[TOEIC MOC]]
+Trở về: [[TOEIC MOC]] | [[English Pronunciation in Use MOC]]

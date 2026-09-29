@@ -13,37 +13,51 @@
 ```text
 TOEIC Vault
 ├── AGENTS.md                          # Canonical instructions for AI agents (source of truth)
-├── CLAUDE.md / GEMINI.md              # Thin AI adapters that point to AGENTS.md
-├── .github/copilot-instructions.md    # GitHub Copilot adapter
-├── .cursor/rules/toeic-vault.mdc      # Cursor adapter
-├── .agy/rules/toeic-vault-rules.md    # Antigravity adapter
+├── .github/copilot-instructions.md    # Thin adapter that points to AGENTS.md
 ├── README.md                          # This file
+├── Today.md                           # Thin pointer to today's file in Daily/
+├── Daily/                             # One permanent dashboard file per session day
+│   ├── Daily Log MOC.md               # History table of every day + real completion status
+│   └── YYYY-MM-DD.md                  # Today's/a past day's lesson, exercise, vocab, checklist
 ├── TOEIC MOC.md                       # Central Map of Content (book list & Part roadmap)
 ├── English Grammar in Use/            # Core grammar mastery for TOEIC Parts 5 & 6
-│   ├── English Grammar in Use MOC.md  # Grammar table of contents (Units 01-18)
-│   ├── Unit XX - <Topic>.md           # Theory note
-│   └── Unit XX - Exercises (<Topic>).md
-├── English Pronunciation in Use/      # Pronunciation & word stress notes
+│   ├── English Grammar in Use MOC.md  # Grammar table of contents (Units 01-25)
+│   ├── 01 Present and Past/           # Units 01-06
+│   ├── 02 Present Perfect and Past/   # Units 07-18
+│   ├── 03 Future/                     # Units 19-25
+│   │   ├── Unit XX - <Topic>.md           # Theory note
+│   │   └── Unit XX - Exercises (<Topic>).md
+├── English Pronunciation in Use/      # Pronunciation, stress, connected speech, intonation
+│   ├── English Pronunciation in Use MOC.md
+│   └── <Topic> - <Vietnamese gloss>.md      # single-file theory + practice note
 ├── Vocabulary/
-│   └── TOEIC Core Vocabulary.md       # High-frequency words, IPA, collocations & word families
-├── Lo_trinh_TOEIC_13_tuan_65_buoi_FINAL.xlsm   # Approved study plan (local only, not in git)
+│   ├── TOEIC Core Vocabulary.md             # Words linked to each Grammar Unit
+│   └── 600 Essential Words for TOEIC.md     # One section per book Lesson (1-50)
+├── Study Plan/                        # Study plan, 100% Markdown (replaces the old .xlsm)
+│   ├── Study Plan MOC.md
+│   ├── Tong quan lo trinh.md
+│   ├── Lo trinh 65 buoi.md
+│   ├── Ban do ngu phap.md
+│   └── Nguon tai lieu.md
 └── books/                             # Source books, PDFs & audio (local only, not in git)
 ```
 
 ---
 
-## Study Plan (13 weeks / 65 sessions)
+## Study Plan (13 weeks / 65+ sessions)
 
-The roadmap lives in `Lo_trinh_TOEIC_13_tuan_65_buoi_FINAL.xlsm` and drives every unit written into the vault.
+The roadmap lives entirely in `Study Plan/` as plain Markdown - no Excel, no binary workbook to open.
 
-| Sheet | Purpose |
+| File | Purpose |
 | :--- | :--- |
-| `Tổng quan` | Phase (Chặng) goals, target scores, required outputs |
-| `Lộ trình 65 buổi` | The 65 sessions, Mon-Fri, with book, unit, focus content, output and status |
-| `Bản đồ ngữ pháp` | Weekly grammar map, kept consistent with the unit ranges in the plan |
-| `File` | Source links for every book and audio set |
+| `Study Plan MOC.md` | Hub linking the three files below |
+| `Tong quan lo trinh.md` | Phase (Chặng) goals, target scores, required outputs |
+| `Lo trinh 65 buoi.md` | The session-by-session schedule, one table per week, with book, unit, focus content, output and a single status column |
+| `Ban do ngu phap.md` | Weekly grammar map, kept consistent with the unit ranges in the plan |
+| `Nguon tai lieu.md` | Source/Drive links for every book and audio set |
 
-> The workbook is **git-ignored** (`*.xlsm`), so it is never restored by git. Back it up before editing, and keep the `Bản đồ ngữ pháp` sheet aligned with column `F` of `Lộ trình 65 buổi`.
+> The original `Lo_trinh_TOEIC_13_tuan_65_buoi_FINAL.xlsm` is superseded and kept only as an
+> untouched personal backup (git-ignored) - agents never open it anymore.
 
 ---
 
@@ -115,30 +129,35 @@ Designed specifically to tackle **TOEIC Part 5 (Incomplete Sentences)** and **Pa
 
 ### 2. Pronunciation System (*English Pronunciation in Use*)
 
+* **Vowel Sounds:** spelling-to-sound mismatch, `/iː/` vs `/ɪ/` and other core short/long vowel pairs, common diphthongs.
+* **Consonant Sounds:** confusable consonant pairs (`/p/-/b/`, `/f/-/v/`, `/θ/-/ð/`, `/r/-/l/`...), word-initial/final consonant clusters.
 * **Word Stress:** two-syllable words (noun/adjective vs. verb stress), long words and stress-shifting suffixes, compound words, phrasal verbs, and the `-teen` vs. `-ty` listening trap.
+* **Syllables and Connected Speech:** syllable counting, schwa `/ə/`, chunking and linking, sentence rhythm and weak forms, contractions, and the three pronunciations of `-s`/`-ed` endings.
+* **Intonation and Active Listening:** marking old vs. new information, statement/question intonation, and a storytelling/shadowing practice method for TOEIC Part 3 & 4.
 
 ### 3. Targeted Vocabulary Bank
 
-* **TOEIC Core Vocabulary:** Iteratively expanded vocabulary companion linking terms encountered in each unit, complete with British/American IPA transcription, part of speech, contextual definitions, corporate/business usage examples, and derivative word families (*synonyms / antonyms*).
+* **TOEIC Core Vocabulary:** Iteratively expanded vocabulary companion linking terms encountered in each Grammar unit, complete with British/American IPA transcription, part of speech, contextual definitions, corporate/business usage examples, and derivative word families (*synonyms / antonyms*).
+* **600 Essential Words for TOEIC:** Lesson-by-lesson headword lists (Lesson 1-50) sourced directly from the *600 Essential Words for the TOEIC Test* book, one lesson per business/office topic (Contracts, Marketing, Conferences, Computers, Job Advertising, Interviewing, and more).
 
 ---
 
-## AI Agents & Automation
+## AI Agent
 
-This repository is used by several AI assistants, so the rules live in one tool-agnostic file:
+This repository is maintained with **omp** as the sole coding agent. Rules live in one file:
 
 | File | Read by |
 | :--- | :--- |
-| `AGENTS.md` | **Canonical source of truth** - Codex, Cursor, Windsurf, Jules, Devin, Amp and others |
-| `CLAUDE.md` | Claude Code (imports `AGENTS.md`) |
-| `GEMINI.md` | Gemini CLI |
-| `.github/copilot-instructions.md` | GitHub Copilot |
-| `.cursor/rules/toeic-vault.mdc` | Cursor |
-| `.agy/rules/toeic-vault-rules.md` | Antigravity |
+| `AGENTS.md` | **Canonical source of truth** |
+| `.github/copilot-instructions.md` | Thin adapter that points to `AGENTS.md` (what omp loads) |
 
-`AGENTS.md` documents the repository map, the two-file unit pattern, naming rules, the note and exercise templates, vocabulary integration, how to edit the study-plan workbook safely, where the source books are, the verification checklist, and the current progress. Change the rules there first, then keep the adapters pointing to it.
+`AGENTS.md` documents the repository map, the two-file unit pattern, naming rules, the note and
+exercise templates, vocabulary integration, the `Daily/` per-day dashboard convention, how to edit
+the study-plan workbook safely, where the source books are, the verification checklist, and the
+current progress. Change the rules there first, then keep the adapter pointing to it.
 
-> Convention: `README.md` and `CLAUDE.md` are written **without emoji**; unit notes keep their emoji headings and callouts.
+> Convention: `README.md` is written **without emoji**; unit notes and `Daily/` files keep their
+> emoji headings and callouts.
 
 ---
 
@@ -156,7 +175,7 @@ This repository is crafted to deliver the best reading and interactive experienc
 
 ## Study Roadmap
 
-The plan is a **13-week / 65-session** schedule (Monday-Friday) running from **14/09/2026 to 11/12/2026**, split into four phases (Chặng). This table mirrors the `Tổng quan` sheet of `Lo_trinh_TOEIC_13_tuan_65_buoi_FINAL.xlsm` - that workbook is the source of truth.
+The plan is a **13-week / 65+-session** schedule (Monday-Friday) running from **14/09/2026 to 11/12/2026**, split into four phases (Chặng). This table mirrors `Study Plan/Tong quan lo trinh.md` - the Markdown plan is the source of truth (no more `.xlsm`). Each session day gets its own permanent file in `Daily/` (e.g. `Daily/2026-09-29.md`): today's grammar unit, vocabulary lesson and exercise links in one place. `Today.md` (root) always points at the current day's file, and `Daily/Daily Log MOC.md` tracks real completion status so a missed day is never lost.
 
 | Phase | Weeks | Dates | Score milestone | Focus books | Tactics / ETS | Main goal | Required output |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -167,8 +186,8 @@ The plan is a **13-week / 65-session** schedule (Monday-Friday) running from **1
 
 ### Grammar notes written to the vault
 
-- [x] **Units 01–18** - theory and exercises for every unit (Present and past, Present perfect and past, have/have got, used to)
-- [ ] **Units 19–145** - Future forms, Modals, Passive, Reported speech, Questions, `-ing` and `to`, Articles and nouns, Pronouns and determiners, Relative clauses, Adjectives and adverbs, Conjunctions, Prepositions, Phrasal verbs
+- [x] **Units 01–25** - theory and exercises for every unit (Present and past, Present perfect and past, have/have got, used to, Future forms)
+- [ ] **Units 26–145** - Modals, Passive, Reported speech, Questions, `-ing` and `to`, Articles and nouns, Pronouns and determiners, Relative clauses, Adjectives and adverbs, Conjunctions, Prepositions, Phrasal verbs
 
 ---
 

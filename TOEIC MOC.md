@@ -21,10 +21,20 @@ tags:
 | Tên đầu sách / Giáo trình | Mục tiêu | Trạng thái | Mục lục chi tiết |
 | :--- | :--- | :--- | :--- |
 | **English Grammar in Use** (Raymond Murphy) | Nền tảng ngữ pháp cốt lõi cho Part 5 & 6 | 🟢 Đang học | [[English Grammar in Use MOC]] |
-| **English Pronunciation in Use** (Elementary / Intermediate / Advanced) | Phát âm, trọng âm & connected speech cho Part 1–4 | 🟢 Đang học | [[Word Stress - Quy tac trong am tu]] |
-| **Bảng Từ Vựng Trọng Tâm** | Sổ tay tích lũy từ mới qua từng Unit | 🟢 Cập nhật liên tục | [[TOEIC Core Vocabulary]] |
-| **600 Essential Words for the TOEIC** | Từ vựng trọng tâm theo chủ đề kinh doanh/công sở | ⚪ Dự kiến | *(Chưa khởi tạo)* |
+| **English Pronunciation in Use** (Elementary / Intermediate / Advanced) | Phát âm, trọng âm & connected speech cho Part 1–4 | 🟢 Đang học | [[English Pronunciation in Use MOC]] |
+| **Bảng Từ Vựng Trọng Tâm** | Sổ tay tích lũy từ mới qua từng Unit ngữ pháp | 🟢 Cập nhật liên tục | [[TOEIC Core Vocabulary]] |
+| **600 Essential Words for the TOEIC** | Từ vựng trọng tâm theo chủ đề kinh doanh/công sở (Lesson 1–50) | 🟢 Đang học (Lesson 1-12) | [[600 Essential Words for TOEIC]] |
 | **ETS TOEIC Test Practice** | Bộ đề thi thử sát đề thi thật (Listening & Reading) | ⚪ Dự kiến | *(Chưa khởi tạo)* |
+
+---
+
+## 🗺️ Lộ trình học
+
+| | |
+| :--- | :--- |
+| **Kế hoạch chi tiết (Markdown, thay thế Excel)** | [[Study Plan MOC]] |
+| **Hôm nay học gì** | [[Today]] |
+| **Nhật ký từng ngày + ngày bỏ lỡ** | [[Daily Log MOC]] |
 
 ---
 
