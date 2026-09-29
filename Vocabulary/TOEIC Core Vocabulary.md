@@ -154,6 +154,42 @@ tags:
 
 ---
 
+## 📌 Unit 19–25: Future (Present tenses, be going to, will/shall, future continuous/perfect, time clauses)
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **itinerary** | *noun*<br>/aɪˈtɪnəˌrɛri/ | lịch trình (chuyến đi/công tác) | *According to the **itinerary**, the workshop begins at 10 a.m. and ends at noon.* | Dùng với Present Simple khi nói về lịch trình chính thức, cố định. |
+| **depart / departure** | *verb / noun*<br>/dɪˈpɑːrt/ /dɪˈpɑːrtʃər/ | khởi hành / sự khởi hành | *The flight **departs** at 7:45 a.m. and arrives at 11:20 a.m.* | Lịch trình phương tiện cố định → Present Simple, không phải Present Continuous. |
+| **arrangement** | *noun*<br>/əˈreɪndʒmənt/ | sự sắp xếp, kế hoạch | *It's already on my calendar — I**'m meeting** the client at 3pm tomorrow.* | Gắn liền với Present Continuous cho tương lai (kế hoạch cá nhân đã sắp xếp). |
+| **quarterly** | *adjective*<br>/ˈkwɔːrtərli/ | theo quý, hằng quý | *We**'re holding** the **quarterly** review on Friday afternoon.* | Thường đi cùng danh từ meeting/review trong ngữ cảnh công sở. |
+| **conference** | *noun*<br>/ˈkɑːnfərəns/ | hội nghị | *The **conference** starts at 9 a.m. sharp, and I**'m arriving** an hour early to set up the booth.* | Ví dụ điển hình kết hợp cả hai thì hiện tại trong một câu. |
+| **memo** | *noun*<br>/ˈmɛmoʊ/ | bản ghi nhớ nội bộ | *The finance team **is reviewing** the shipment invoices this Thursday, as confirmed in yesterday's **memo**.* | Xuất hiện nhiều trong Part 5/6 TOEIC làm bối cảnh thông báo nội bộ. |
+| **launch** | *verb*<br>/lɔːntʃ/ | ra mắt, tung ra (sản phẩm) | *The company **is going to launch** a new product line next quarter.* | Dùng với be going to để diễn tả kế hoạch đã quyết định. |
+| **headquarters** | *noun*<br>/ˌhedˈkwɔːrtərz/ | trụ sở chính | *We**'re going to relocate** our **headquarters** to Da Nang next year.* | Luôn có 's', chỉ một nơi dù trông giống số nhiều. |
+| **backlog** | *noun*<br>/ˈbæklɔːɡ/ | lượng công việc/đơn hàng tồn đọng | *Given the growing **backlog** of orders, the warehouse **is going to need** extra staff.* | Dấu hiệu bằng chứng cho dự đoán với be going to. |
+| **revenue** | *noun*<br>/ˈrevənuː/ | doanh thu | *__Revenue__ has fallen sharply this quarter, so management **is going to cut** costs.* | Không đếm được, không có dạng số nhiều. |
+| **outsource** | *verb*<br>/ˈaʊtsɔːrs/ | thuê ngoài | *They **were going to outsource** production, but they changed their minds.* | Thường dùng ở dạng bị động: is/are outsourced. |
+| **reschedule** | *verb*<br>/riːˈskedʒuːl/ | dời lịch, sắp xếp lại thời gian | *__Shall__ we __reschedule__ the call to 3 p.m.?* | Shall we...? dùng để đề nghị. |
+| **confirm** | *verb*<br>/kənˈfɜːrm/ | xác nhận | *__Will__ you please __confirm__ receipt of this **purchase order**?* | Will you...? dùng làm lời yêu cầu lịch sự. |
+| **purchase order** | *noun phrase*<br>/ˈpɜːrtʃəs ˈɔːrdər/ | đơn đặt hàng | *Will you please confirm receipt of this **purchase order**?* | Cụm từ công sở xuất hiện nhiều ở Part 7. |
+| **quote** | *noun / verb*<br>/kwoʊt/ | báo giá | *I__'ll__ email the client the revised **quote** right away.* | Quyết định tức thời tại thời điểm nói → will (không phải going to). |
+| **merger** | *noun*<br>/ˈmɜːrdʒər/ | sự sáp nhập (công ty) | *I think the **merger** will be finalized by the end of the quarter.* | I think + will = ý kiến/dự đoán không chắc chắn tuyệt đối. |
+| **candidate** | *noun*<br>/ˈkændɪdeɪt/ | ứng viên | *I doubt the **candidate** will accept a lower salary offer.* | I doubt + will = dự đoán tiêu cực. |
+| **shipment** | *noun*<br>/ˈʃɪpmənt/ | lô hàng | *I don't think the vendor will deliver the **shipment** on time.* | won't/will not = dự đoán phủ định hoặc từ chối. |
+| **proposal** | *noun*<br>/prəˈpoʊzl/ | đề xuất, bản đề nghị | *I am **going to** submit the **proposal** tomorrow — I decided last week.* | going to = quyết định đã có từ trước, không phải ngay lúc nói. |
+| **venue** | *noun*<br>/ˈvenjuː/ | địa điểm (tổ chức sự kiện) | *The company has already booked the **venue** — the conference **is going to take place** in Da Nang.* | Bằng chứng cụ thể (đã đặt chỗ) → going to. |
+| **profitable** | *adjective*<br>/ˈprɑːfɪtəbl/ | có lợi nhuận, sinh lời | *Mr. Nakamura believes the new branch **will** become **profitable** within two years.* | will = quan điểm/dự đoán cá nhân, không dựa trên bằng chứng cụ thể. |
+| **audit** | *noun*<br>/ˈɔːdɪt/ | cuộc kiểm toán | *We **will have finished** the **audit** by Friday.* | will have done = hoàn tất trước một mốc thời gian tương lai. |
+| **fiscal year** | *noun phrase*<br>/ˈfɪskl jɪə(r)/ | năm tài chính | *By the end of the **fiscal year**, the firm will have opened three new branches.* | 'By + mốc thời gian' là dấu hiệu của future perfect. |
+| **shareholder** | *noun*<br>/ˈʃeəhəʊldə(r)/ | cổ đông | *__Will__ you __be attending__ the __shareholders__' meeting on Thursday?* | will be + V-ing = hỏi lịch trình một cách lịch sự (future continuous). |
+| **quarterly report** | *noun phrase*<br>/ˈkwɔːtəli rɪˈpɔːt/ | báo cáo hàng quý | *Don't call at 9 — I__'ll be presenting__ the __quarterly report__.* | will be doing = hoạt động đang diễn ra tại một thời điểm tương lai cụ thể. |
+| **submit** | *verb*<br>/səbˈmɪt/ | nộp, đệ trình | *Please **submit** the invoice before the deadline passes.* | Mệnh đề thời gian (before) dùng Present Simple, không dùng will. |
+| **approve** | *verb*<br>/əˈpruːv/ | phê duyệt | *We'll finalize the contract after the legal team **approves** it.* | Sau after/when/as soon as dùng Present Simple/Perfect thay cho will. |
+| **finalize** | *verb*<br>/ˈfaɪnəlaɪz/ | hoàn tất, chốt (hợp đồng, báo cáo) | *By the time the client calls, we **will have finalized** the quarterly report.* | Kết hợp Unit 24 (future perfect) và Unit 25 (mệnh đề thời gian). |
+| **renew** | *verb*<br>/rɪˈnjuː/ | gia hạn | *We won't renew the contract until legal **has reviewed** every clause.* | Sau until dùng Present Perfect khi nhấn mạnh việc hoàn tất trước đó. |
+
+---
+
 Trở về: [[TOEIC MOC]] | [[English Grammar in Use MOC]]
 
 ---
