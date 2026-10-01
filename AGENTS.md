@@ -3,7 +3,7 @@
 This file is the **single source of truth** for every AI assistant working in this repository
 (currently: omp / oh-my-pi as the sole coding agent).
 
-Last updated: 2026-09-29
+Last updated: 2026-10-01
 
 ---
 
@@ -304,24 +304,25 @@ There is no test suite; verify by hand (a short Python script is usually the fas
 
 ---
 
-## 9. Current state (as of 2026-09-29)
+## 9. Current state (as of 2026-10-01)
 
-- **Grammar:** Units **01-25** complete (theory + exercises for each), grouped into
+- **Grammar:** Units **01-34** complete (theory + exercises for each), grouped into
   `01 Present and Past/` (1-6), `02 Present Perfect and Past/` (7-18), `03 Future/` (19-25),
-  and listed in `English Grammar in Use MOC.md`. Unit titles follow Murphy 5th ed.
-- **Pronunciation:** 5 notes, all listed in `English Pronunciation in Use MOC.md` - `Vowel Sounds`,
+  `04 Modals/` (26-34 so far), and listed in `English Grammar in Use MOC.md`. Unit titles follow
+  Murphy 5th ed.
+- **Pronunciation:** 6 notes, all listed in `English Pronunciation in Use MOC.md` - `Vowel Sounds`,
   `Consonant Sounds`, `Word Stress`, `Syllables and Connected Speech`, `Intonation and Active
-  Listening`. Covers every topic through the study plan's session 17 (29/09/2026).
-- **Vocabulary:** two files - `TOEIC Core Vocabulary.md` (by Grammar Unit, sections for Units
-  2-8, 9-10, 11-12, 13-18, 19-25) and `600 Essential Words for TOEIC.md` (by book Lesson,
-  Lesson 1-12 done, sourced from the Vietnamese-gloss PDF's real text layer).
+  Listening`, `Sentence Stress and Functional Intonation`. Covers every topic through the study
+  plan's session 19 (01/10/2026).
+- **Vocabulary:** two files - `TOEIC Core Vocabulary.md` (by Grammar Unit, sections through Units
+  31-34) and `600 Essential Words for TOEIC.md` (by book Lesson, Lesson 1-14 done, sourced from
+  the Vietnamese-gloss PDF's real text layer).
 - **Study plan:** fully migrated to `Study Plan/` (Markdown); the `.xlsm` is no longer read.
   Chặng 1-4, 68 sessions found in source (Tuần 1-12; Tuần 13 missing from source, not fabricated).
-  Today's session (Thứ 3, 29/09/2026, Tuần 3) = EGIU **U23-25** (will/shall) + *600 Essential
-  Words* **Lesson 11-12**.
-- **Daily dashboard:** `Daily/2026-09-14.md` through `Daily/2026-09-29.md` backfilled (12 session
-  days) with real status in `Daily Log MOC.md` (single column - the old duplicate `Trạng thái (E)`
-  was dropped); `Today.md` points at `2026-09-29`. Backfill shows 22-25/09 + 28-29/09 chưa học
-  (bỏ lỡ) per the plan's own status.
-- **Next to write:** Grammar Units **26+** (*Modals* section: U26-37, subfolder `04 Modals/`);
-  Vocabulary Lesson **13+**; Pronunciation topics beyond session 17 as the plan advances.
+  Today's session (Thứ 5, 01/10/2026, Tuần 3) = EGIU **U31-34** + *600 Essential Words*
+  **Lesson 13-14**.
+- **Daily dashboard:** `Daily/2026-09-14.md` through `Daily/2026-10-01.md` available (14 session
+  days) with plan status in `Daily Log MOC.md`; `Today.md` points at `2026-10-01`. The plan marks
+  22-25/09 and 28/09-01/10 as not studied.
+- **Next to write:** Grammar Units **35+** (*Modals* section continues through U37);
+  Vocabulary Lesson **15+**; Pronunciation topics beyond session 19 as the plan advances.

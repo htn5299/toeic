@@ -1,6 +1,6 @@
 ---
 title: "English Pronunciation in Use — MOC"
-date: 2026-09-29
+date: 2026-10-01
 tags:
   - moc
   - english
@@ -24,6 +24,7 @@ tags:
 ## 🎯 Trọng âm (Stress)
 
 - [x] [[Word Stress - Quy tac trong am tu|Word Stress — Trọng âm từ]]
+- [ ] [[Sentence Stress and Functional Intonation - Trong am cau va ngu dieu chuc nang|Sentence Stress & Functional Intonation — Trọng âm tương phản, nhấn mạnh và ngữ điệu chức năng]]
 
 ## 🌊 Âm tiết & Nối âm (Syllables & Connected Speech)
 

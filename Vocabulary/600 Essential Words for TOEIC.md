@@ -241,6 +241,43 @@ tags:
 | **Hesitate** | *verb*<br>/ˈhezɪteɪt/ | Do dự, lưỡng lự | *Don't **hesitate** to ask the interviewer questions about the role.* | Cụm lịch sự thường gặp: **please do not hesitate to contact us**. |
 | **Weakness** | *noun*<br>/ˈwiːknəs/ | Nhược điểm, điểm yếu | *Interviewers often ask candidates to describe a professional **weakness**.* | Trái nghĩa: **strength**; câu hỏi phỏng vấn kinh điển: *What is your greatest weakness?* |
 
+---
+
+## 📌 Lesson 13: Hiring and Training
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Conduct** | *verb*<br>/kənˈdʌkt/ | Tiến hành; cư xử | *The HR department will **conduct** interviews on Monday.* | Cụm thường gặp: **conduct an interview/survey**; danh từ **conduct** phát âm /ˈkɒndʌkt/. |
+| **Generate** | *verb*<br>/ˈdʒenəreɪt/ | Tạo ra, sinh ra | *The new campaign is expected to **generate** more sales leads.* | Danh từ **generation**; thường đi với **revenue, interest, report**. |
+| **Hire** | *verb / noun*<br>/ˈhaɪə(r)/ | Thuê, tuyển dụng; người mới được tuyển | *The company plans to **hire** three additional technicians.* | Danh từ **hiring**; gần nghĩa **recruit/employ**. |
+| **Keep up with** | *phrasal verb*<br>/kiːp ʌp wɪð/ | Theo kịp | *Employees take refresher courses to **keep up with** new regulations.* | Theo sau bằng danh từ/V-ing; không tách cụm. |
+| **Look up to** | *phrasal verb*<br>/lʊk ʌp tuː/ | Khâm phục, kính trọng | *Junior staff **look up to** the experienced project manager.* | Trái nghĩa **look down on**; `to` là giới từ. |
+| **Mentor** | *noun / verb*<br>/ˈmentɔː(r)/ | Người cố vấn; cố vấn | *Each trainee is assigned a **mentor** during orientation.* | Phân biệt **mentor** với **trainer**; động từ: *mentor new employees*. |
+| **On track** | *adjective phrase*<br>/ɒn træk/ | Đúng tiến độ | *The training program is **on track** to finish by Friday.* | Cụm: **be on track to do something**; trái nghĩa **behind schedule**. |
+| **Reject** | *verb*<br>/rɪˈdʒekt/ | Từ chối, loại bỏ | *The recruiter **rejected** applications that lacked references.* | Danh từ **rejection**; gần nghĩa **turn down**. |
+| **Set up** | *phrasal verb*<br>/set ʌp/ | Thiết lập, sắp xếp | *HR will **set up** an orientation session for new hires.* | Danh từ/tính từ **setup** viết liền; động từ **set up** viết rời. |
+| **Success** | *noun*<br>/səkˈses/ | Thành công | *The **success** of the course depends on employee participation.* | Họ từ: **succeed**, **successful**, **successfully**. |
+| **Training** | *noun*<br>/ˈtreɪnɪŋ/ | Sự đào tạo, huấn luyện | *All warehouse staff must complete safety **training**.* | Danh từ không đếm được; **trainer** = người đào tạo, **trainee** = học viên. |
+| **Update** | *verb / noun*<br>/ʌpˈdeɪt/; /ˈʌpdeɪt/ | Cập nhật; bản cập nhật | *Please **update** your contact details before orientation.* | Trọng âm khác nhau giữa động từ và danh từ. |
+
+---
+
+## 📌 Lesson 14: Salaries and Benefits
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Basis** | *noun*<br>/ˈbeɪsɪs/ | Cơ sở, nền tảng | *Performance bonuses are calculated on a quarterly **basis**.* | Cụm cố định: **on a daily/weekly basis**, **the basis for**. |
+| **Be aware of** | *verb phrase*<br>/biː əˈweə(r) əv/ | Nhận thức, biết rõ | *Applicants should **be aware of** the probationary salary rate.* | `of` là giới từ, theo sau bằng danh từ/V-ing. |
+| **Benefits** | *plural noun*<br>/ˈbenɪfɪts/ | Phúc lợi | *The position includes health insurance and retirement **benefits**.* | Thường dùng số nhiều trong tuyển dụng; động từ **benefit from**. |
+| **Compensate** | *verb*<br>/ˈkɒmpenseɪt/ | Đền bù, trả công | *Employees will be **compensated** for approved overtime.* | Cấu trúc **compensate someone for something**; danh từ **compensation**. |
+| **Delicate** | *adjective*<br>/ˈdelɪkət/ | Nhạy cảm, cần xử lý khéo léo | *Salary negotiations can be a **delicate** matter.* | Gần nghĩa **sensitive**; không nhầm với **delicious**. |
+| **Eligible** | *adjective*<br>/ˈelɪdʒəbl/ | Đủ điều kiện | *Full-time employees are **eligible for** paid leave after probation.* | Cụm cố định **be eligible for/to do**; danh từ **eligibility**. |
+| **Flexible** | *adjective*<br>/ˈfleksəbl/ | Linh hoạt | *The company offers **flexible** working hours.* | Danh từ **flexibility**; cụm **flexible schedule/hours**. |
+| **Negotiate** | *verb*<br>/nɪˈɡəʊʃieɪt/ | Đàm phán, thương lượng | *The candidate hopes to **negotiate** a higher starting salary.* | Danh từ **negotiation**, người **negotiator**. |
+| **Raise** | *noun / verb*<br>/reɪz/ | Sự tăng lương; nâng lên | *Employees receive an annual **raise** based on performance.* | Anh-Mỹ: **pay raise**; Anh-Anh thường dùng **pay rise**. |
+| **Retire** | *verb*<br>/rɪˈtaɪə(r)/ | Nghỉ hưu | *Ms. Kim plans to **retire** at the end of the year.* | Họ từ: **retirement**, **retired**; cụm **retire from**. |
+| **Vested** | *adjective*<br>/ˈvestɪd/ | Được trao quyền lợi đầy đủ | *Workers become **vested** in the pension plan after five years.* | Thường gặp trong cụm **vested benefits/interest**. |
+| **Wage** | *noun*<br>/weɪdʒ/ | Tiền công | *The company increased the hourly **wage** for temporary staff.* | **Wage** thường theo giờ; **salary** thường là khoản cố định theo tháng/năm. |
 
 ---
 Trở về: [[TOEIC MOC]] | [[TOEIC Core Vocabulary]]

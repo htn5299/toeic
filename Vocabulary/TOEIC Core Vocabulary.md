@@ -190,6 +190,44 @@ tags:
 
 ---
 
+## 📌 Unit 26–30: Ability, deduction and possibility
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Capability** | *noun*<br>/ˌkeɪpəˈbɪləti/ | Năng lực, khả năng | *The upgraded server has the **capability** to process larger files.* | Cấu trúc **capability to do / capability of doing**; tính từ **capable**. |
+| **Proficient** | *adjective*<br>/prəˈfɪʃnt/ | Thành thạo | *Applicants must be **proficient** in spreadsheet software.* | Cụm **be proficient in**; danh từ **proficiency**. |
+| **Operate** | *verb*<br>/ˈɒpəreɪt/ | Vận hành | *Only trained staff can **operate** the packaging machine.* | Danh từ **operation/operator**; thường gặp ở Part 1 và thông báo an toàn. |
+| **Resolve** | *verb*<br>/rɪˈzɒlv/ | Giải quyết | *The technician was able to **resolve** the network issue remotely.* | Cụm **resolve an issue/problem/dispute**; danh từ **resolution**. |
+| **Outage** | *noun*<br>/ˈaʊtɪdʒ/ | Sự gián đoạn dịch vụ | *The payment system may be unavailable during the scheduled **outage**.* | Cụm **power/network/system outage**. |
+| **Likelihood** | *noun*<br>/ˈlaɪklihʊd/ | Khả năng xảy ra | *There is a strong **likelihood** that demand will increase.* | Cấu trúc **the likelihood of/that**; tính từ **likely**. |
+| **Possibly** | *adverb*<br>/ˈpɒsəbli/ | Có thể, có lẽ | *The shipment could **possibly** arrive one day early.* | Dấu hiệu ngữ nghĩa cho `may/might/could`; tính từ **possible**. |
+| **Infer** | *verb*<br>/ɪnˈfɜː(r)/ | Suy ra | *From the empty parking lot, we can **infer** that the office is closed.* | Danh từ **inference**; không nhầm với **imply**. |
+| **Evidence** | *noun*<br>/ˈevɪdəns/ | Bằng chứng | *The damaged seal is **evidence** that the package was opened.* | Danh từ không đếm được; dùng khi suy luận với `must/can’t`. |
+| **Restore** | *verb*<br>/rɪˈstɔː(r)/ | Khôi phục | *IT restored access to the database before noon.* | Cụm **restore access/service/data**; danh từ **restoration**. |
+| **Alternative** | *noun / adjective*<br>/ɔːlˈtɜːnətɪv/ | Lựa chọn thay thế | *We might use an **alternative** supplier if the delay continues.* | Cụm **an alternative to**; không dùng *alternative for* trong nghĩa thay thế trực tiếp. |
+| **Authorize** | *verb*<br>/ˈɔːθəraɪz/ | Cho phép, phê chuẩn | *Only a department head can **authorize** the payment.* | Họ từ **authorization/authorized**; hay gặp trong quy trình thanh toán. |
+
+---
+
+## 📌 Unit 31–34: Obligation, advice and expectation
+
+| Từ vựng / Cụm từ | Loại từ & Phiên âm | Nghĩa tiếng Việt | Câu ví dụ ngữ cảnh (Context) | Điểm cần nhớ trong TOEIC |
+| :--- | :--- | :--- | :--- | :--- |
+| **Compliance** | *noun*<br>/kəmˈplaɪəns/ | Sự tuân thủ | *The audit confirmed the company’s **compliance** with safety standards.* | Cụm **in compliance with**; động từ **comply with**. |
+| **Mandatory** | *adjective*<br>/ˈmændətəri/ | Bắt buộc | *Attendance at the safety briefing is **mandatory**.* | Báo hiệu `must/have to`; trái nghĩa **optional**. |
+| **Prohibited** | *adjective*<br>/prəˈhɪbɪtɪd/ | Bị cấm | *Photography is **prohibited** inside the production area.* | Báo hiệu `mustn’t`; động từ **prohibit**. |
+| **Optional** | *adjective*<br>/ˈɒpʃənl/ | Không bắt buộc, tùy chọn | *The afternoon workshop is **optional** for experienced staff.* | Báo hiệu `needn’t/don’t have to`; danh từ **option**. |
+| **Requirement** | *noun*<br>/rɪˈkwaɪəmənt/ | Yêu cầu bắt buộc | *A valid permit is a basic job **requirement**.* | Cụm **meet/satisfy a requirement**; động từ **require**. |
+| **Confidential** | *adjective*<br>/ˌkɒnfɪˈdenʃl/ | Bảo mật | *Employees must not disclose **confidential** client records.* | Danh từ **confidentiality**; cụm **strictly confidential**. |
+| **Recommend** | *verb*<br>/ˌrekəˈmend/ | Khuyến nghị | *We **recommend** that applicants submit two references.* | `recommend that + S + (should) + V`; không dùng *recommend someone to do* trong cấu trúc này. |
+| **Advisable** | *adjective*<br>/ədˈvaɪzəbl/ | Nên làm, hợp lý | *It is **advisable** to confirm the appointment in writing.* | Tương đương ý nghĩa `should`; cấu trúc **It is advisable to…**. |
+| **Insist** | *verb*<br>/ɪnˈsɪst/ | Khăng khăng yêu cầu | *The client **insisted** that the error should be corrected immediately.* | Cấu trúc **insist that / insist on + V-ing**. |
+| **Expectation** | *noun*<br>/ˌekspekˈteɪʃn/ | Sự kỳ vọng | *The shipment should arrive on Friday according to current **expectations**.* | Họ từ **expect/expected**; `should` có thể diễn tả kỳ vọng. |
+| **Waive** | *verb*<br>/weɪv/ | Miễn, từ bỏ yêu cầu/phí | *The bank agreed to **waive** the late-payment fee.* | Cụm **waive a fee/requirement/right**; không nhầm **wave**. |
+| **Policy** | *noun*<br>/ˈpɒləsi/ | Chính sách, quy định | *Company **policy** requires visitors to sign in.* | Cụm **company/refund/privacy policy**; thường tạo nghĩa vụ bên ngoài với `have to`. |
+
+---
+
 Trở về: [[TOEIC MOC]] | [[English Grammar in Use MOC]]
 
 ---

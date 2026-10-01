@@ -1,6 +1,6 @@
 ---
 title: "Daily Log MOC — Nhật ký học theo ngày"
-date: 2026-09-29
+date: 2026-10-01
 tags:
   - moc
   - daily
@@ -27,6 +27,8 @@ tags:
 | 25/09 | Thứ 6 | 2 | 🔴 Chưa học | [[2026-09-25]] |
 | 28/09 | Thứ 2 | 3 | 🔴 Chưa học | [[2026-09-28]] |
 | 29/09 | Thứ 3 | 3 | 🔴 Chưa học | [[2026-09-29]] |
+| 30/09 | Thứ 4 | 3 | ⬜ Chưa học | [[2026-09-30]] |
+| 01/10 | Thứ 5 | 3 | ⬜ Chưa học | [[2026-10-01]] |
 
 ---
 Trở về: [[TOEIC MOC]] | [[Today]] | [[Study Plan MOC]]

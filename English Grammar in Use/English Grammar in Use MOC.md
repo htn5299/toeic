@@ -1,6 +1,6 @@
 ---
 title: "English Grammar in Use (Raymond Murphy) - MOC"
-date: 2026-09-19
+date: 2026-10-01
 tags:
   - moc
   - english
@@ -89,6 +89,29 @@ tags:
   - ✍️ [[Unit 24 - Exercises (will be doing and will have done)|Bài tập thực hành Unit 24]] *(Đang học — 29/09/2026)*
 - [ ] **[[Unit 25 - when I do and when I've done (if and when)|Unit 25: when I do and when I've done (if and when)]]**
   - ✍️ [[Unit 25 - Exercises (when I do and if and when)|Bài tập thực hành Unit 25]] *(Đang học — 29/09/2026)*
+
+---
+
+## 🧩 Modals
+
+- [ ] **[[Unit 26 - can, could and (be) able to|Unit 26: can, could and (be) able to]]**
+  - ✍️ [[Unit 26 - Exercises (can could and be able to)|Bài tập thực hành Unit 26]] *(Đang học — 30/09/2026)*
+- [ ] **[[Unit 27 - could (do) and could have (done)|Unit 27: could (do) and could have (done)]]**
+  - ✍️ [[Unit 27 - Exercises (could and could have)|Bài tập thực hành Unit 27]] *(Đang học — 30/09/2026)*
+- [ ] **[[Unit 28 - must and can’t|Unit 28: must and can’t]]**
+  - ✍️ [[Unit 28 - Exercises (must and can't)|Bài tập thực hành Unit 28]] *(Đang học — 30/09/2026)*
+- [ ] **[[Unit 29 - may and might 1|Unit 29: may and might 1]]**
+  - ✍️ [[Unit 29 - Exercises (may and might 1)|Bài tập thực hành Unit 29]] *(Đang học — 30/09/2026)*
+- [ ] **[[Unit 30 - may and might 2|Unit 30: may and might 2]]**
+  - ✍️ [[Unit 30 - Exercises (may and might 2)|Bài tập thực hành Unit 30]] *(Đang học — 30/09/2026)*
+- [ ] **[[Unit 31 - have to and must|Unit 31: have to and must]]**
+  - ✍️ [[Unit 31 - Exercises (have to and must)|Bài tập thực hành Unit 31]] *(Đang học — 01/10/2026)*
+- [ ] **[[Unit 32 - must mustn’t needn’t|Unit 32: must mustn’t needn’t]]**
+  - ✍️ [[Unit 32 - Exercises (must mustn't needn't)|Bài tập thực hành Unit 32]] *(Đang học — 01/10/2026)*
+- [ ] **[[Unit 33 - should 1|Unit 33: should 1]]**
+  - ✍️ [[Unit 33 - Exercises (should 1)|Bài tập thực hành Unit 33]] *(Đang học — 01/10/2026)*
+- [ ] **[[Unit 34 - should 2|Unit 34: should 2]]**
+  - ✍️ [[Unit 34 - Exercises (should 2)|Bài tập thực hành Unit 34]] *(Đang học — 01/10/2026)*
 
 ---
 Trở về: [[TOEIC MOC]] | [[README]]
