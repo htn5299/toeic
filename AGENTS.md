@@ -64,6 +64,22 @@ TOEIC Vault/
 
 ---
 
+### 2.1 Setup and working workflow
+
+This is a content-only Obsidian vault, not a software project.
+
+- **Setup:** clone the repository and open its root as an Obsidian vault. No dependencies,
+  environment variables, database or package-manager install are required.
+- **Development:** edit the Markdown source directly. Use Obsidian for interactive reading/editing
+  or any text editor for agent work.
+- **Build / run / deploy:** none. GitHub renders the Markdown; Obsidian reads the same files locally.
+- **Tests / CI:** none. Run the manual checks in section 7 for every touched file.
+- **Source priority:** use `Study Plan/` for scheduling, the readable local PDFs listed in section 6
+  for book-derived content, and existing notes as formatting references.
+- Do not add a build system, package manager, formatter or test framework for this vault.
+
+---
+
 ## 3. Content conventions (must follow)
 
 ### 3.1 The two-file unit pattern (mandatory)
@@ -267,7 +283,9 @@ row here so the next agent doesn't have to.
 
 ## 7. Verification before you finish
 
-There is no test suite; verify by hand (a short Python script is usually the fastest way):
+There is no automated test suite. Review `git diff --check` warnings (two trailing spaces may be
+intentional Markdown line breaks), then verify by hand; a short Python script is usually the fastest
+way:
 
 1. **Wiki-links** - every `[[link]]` in the files you touched resolves to an existing `*.md` file name.
 2. **Two-file pattern** - each new unit has both the theory and the exercise file, cross-linked.
@@ -291,7 +309,8 @@ There is no test suite; verify by hand (a short Python script is usually the fas
   Emoji inside unit notes, callouts, MOCs and `Daily/` files are expected and should be kept.
 - Do NOT commit `.obsidian/workspace.json`, OS files, `*.bak*`, `*.tmp`, `.~lock.*#`,
   `*.xlsm` or anything under `books/`.
-- `.agents/skills/` and `.claude/` are local agent tooling: keep them git-ignored and never commit them.
+- `.agents/skills/`, `.claude/` and `skills-lock.json` are local agent tooling: keep them
+  git-ignored and never commit them.
 - Do NOT use HTML markup when native GFM / Obsidian syntax suffices.
 - Do NOT create standalone grammar notes without linking them from both MOCs.
 - Do NOT rewrite or "improve" the approved study plan on your own initiative.
@@ -325,6 +344,7 @@ There is no test suite; verify by hand (a short Python script is usually the fas
 - **Daily dashboard:** `Daily/2026-09-14.md` through `Daily/2026-10-01.md` available (14 session
   days) with plan status in `Daily Log MOC.md`; `Today.md` points at `2026-10-01`. The plan marks
   22-25/09 and 28/09-01/10 as not studied.
-- **Local agent tooling:** `.agents/skills/` and `.claude/` are git-ignored and stay local.
+- **Local agent tooling:** `.agents/skills/`, `.claude/` and `skills-lock.json` stay local and must
+  remain git-ignored.
 - **Next to write:** Grammar Units **35+** (*Modals* section continues through U37);
   Vocabulary Lesson **15+**; Pronunciation topics beyond session 19 as the plan advances.

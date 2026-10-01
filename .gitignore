@@ -50,6 +50,7 @@ $RECYCLE.BIN/
 .agy/
 .agents/skills/
 .claude/
+skills-lock.json
 
 books/
 *.xlsm
