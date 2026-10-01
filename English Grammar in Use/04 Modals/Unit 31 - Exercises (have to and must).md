@@ -21,65 +21,68 @@ tags:
 
 ## Exercise 31.1: Complete with the correct form of `must` or `have to`.
 
-1. Employees [] wear ID badges in the building.
-2. We [] postpone the launch yesterday.
-3. New hires will [] complete safety training.
-4. I [] remember to call the supplier today.
-5. The company has [] reduce travel expenses.
+1. Employees [have to / must] wear ID badges in the building.
+2. We [had to] postpone the launch yesterday.
+3. New hires will [have to] complete safety training.
+4. I [must] remember to call the supplier today.
+5. The company has [had to] reduce travel expenses.
 
 > [!success]- 🔑 Đáp án & Giải thích 31.1
-> 1. **have to / must** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 2. **had to** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 3. **have to** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 4. **must** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 5. **had to** — chọn đúng cấu trúc và mốc thời gian của câu.
-## Exercise 31.2: Choose `mustn’t` or `don’t/doesn’t have to`.
+> 1. **have to / must** — quy định chung; cả hai đều được.
+> 2. **had to** — nghĩa vụ trong quá khứ; `must` không có dạng quá khứ.
+> 3. **have to** — sau `will` phải dùng `have to` (không dùng `must`).
+> 4. **must** — tự nhắc nhở bản thân, không phải quy định bên ngoài.
+> 5. **had to** — `has had to` (present perfect của `have to`); công ty đã buộc phải cắt giảm.
 
-1. Visitors [] enter the warehouse without a guide.
-2. You [] print the form; an electronic copy is acceptable.
-3. Staff [] share their passwords.
-4. She [] attend both sessions; one is enough.
-5. Drivers [] park in front of the loading dock.
+## Exercise 31.2: Choose `mustn't` or `don't/doesn't have to`.
+
+1. Visitors [mustn't] enter the warehouse without a guide.
+2. You [don't have to] print the form; an electronic copy is acceptable.
+3. Staff [mustn't] share their passwords.
+4. She [doesn't have to] attend both sessions; one is enough.
+5. Drivers [mustn't] park in front of the loading dock.
 
 > [!success]- 🔑 Đáp án & Giải thích 31.2
-> 1. **mustn’t** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 2. **don’t have to** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 3. **mustn’t** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 4. **doesn’t have to** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 5. **mustn’t** — chọn đúng cấu trúc và mốc thời gian của câu.
+> 1. **mustn't** — cấm; vào kho không có người hướng dẫn là nguy hiểm.
+> 2. **don't have to** — không bắt buộc; bản PDF là đủ (không phải bị cấm in).
+> 3. **mustn't** — cấm; chia sẻ mật khẩu là vi phạm bảo mật.
+> 4. **doesn't have to** — không bắt buộc; một buổi là đủ.
+> 5. **mustn't** — cấm đậu xe chắn khu vực bốc dỡ hàng.
+
 ## Exercise 31.3: Correct the mistake in each sentence.
 
-1. Employees must to display their badges.
-2. We must cancel the meeting yesterday.
-3. New staff will must attend orientation.
-4. You mustn’t submit a paper copy; it is optional.
-5. He have to renew his permit annually.
+1. Employees must ~~to~~ display their badges.
+2. We ~~must~~ **had to** cancel the meeting yesterday.
+3. New staff will ~~must~~ **have to** attend orientation.
+4. You ~~mustn't~~ **don't have to** submit a paper copy; it is optional.
+5. He ~~have~~ **has** to renew his permit annually.
 
 > [!success]- 🔑 Đáp án & Giải thích 31.3
-> 1. **Employees must display their badges.** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 2. **We had to cancel the meeting yesterday.** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 3. **New staff will have to attend orientation.** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 4. **You don’t have to submit a paper copy; it is optional.** — chọn đúng cấu trúc và mốc thời gian của câu.
-> 5. **He has to renew his permit annually.** — chọn đúng cấu trúc và mốc thời gian của câu.
+> 1. **must display** — `must` không dùng kèm `to` (khác `have to`).
+> 2. **had to cancel** — sự kiện quá khứ (`yesterday`) → bắt buộc dùng `had to`.
+> 3. **will have to attend** — sau `will` không thể dùng `must`; dùng `have to`.
+> 4. **don't have to submit** — `optional` = không bắt buộc, không phải bị cấm.
+> 5. **has to renew** — chủ ngữ `He` → `has to` (ngôi ba số ít).
+
 ## Exercise 31.4: TOEIC Part 5 Mini-drill
 
 1. All visitors _____ sign in at the reception desk.  
-   (A) have to · (B) has to · (C) must to · (D) having to
+   **(A) have to** · (B) has to · (C) must to · (D) having to
 2. Because of the storm, we _____ close the office early yesterday.  
-   (A) must · (B) had to · (C) have to · (D) will have to
+   (A) must · **(B) had to** · (C) have to · (D) will have to
 3. Employees _____ disclose confidential client information.  
-   (A) don’t have to · (B) mustn’t · (C) haven’t to · (D) must not to
+   (A) don't have to · **(B) mustn't** · (C) haven't to · (D) must not to
 4. You _____ bring a laptop; computers are available in the training room.  
-   (A) mustn’t · (B) don’t have to · (C) had to · (D) must not to
+   (A) mustn't · **(B) don't have to** · (C) had to · (D) must not to
 5. Starting next month, contractors will _____ use the new entrance.  
-   (A) must · (B) have to · (C) had to · (D) be have to
+   (A) must · **(B) have to** · (C) had to · (D) be have to
 
 > [!success]- 🔑 Đáp án & Giải thích 31.4
-> 1. **(A)** — Chủ ngữ số nhiều; `have to + V`.
-> 2. **(B)** — Nghĩa vụ quá khứ dùng `had to`.
-> 3. **(B)** — Đây là cấm đoán.
-> 4. **(B)** — Không bắt buộc, không phải bị cấm.
-> 5. **(B)** — Sau `will` dùng `have to`.
+> 1. **(A)** — Chủ ngữ số nhiều (`visitors`); `has to` sai số; `must to` sai ngữ pháp.
+> 2. **(B)** — Nghĩa vụ quá khứ; `must` không chia được theo thì.
+> 3. **(B)** — Tiết lộ thông tin mật là **cấm** → `mustn't`; `don't have to` chỉ là không bắt buộc.
+> 4. **(B)** — Có máy tính sẵn → **không cần** mang; không bị cấm → loại `mustn't`.
+> 5. **(B)** — Sau `will` → `have to`; không dùng `must` hoặc `had to` (quá khứ).
 
 ---
 
