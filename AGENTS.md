@@ -47,7 +47,7 @@ TOEIC Vault/
 │   └── Nguon tai lieu.md               # source/Drive links (was sheet "File")
 ├── TOEIC MOC.md                       # central Map of Content (book list + Part roadmap)
 ├── English Grammar in Use/
-│   ├── English Grammar in Use MOC.md  # grammar table of contents (Units 01-18 so far)
+│   ├── English Grammar in Use MOC.md  # grammar table of contents (Units 01-34 so far)
 │   ├── <NN Section Name>/             # grouped by Murphy's own book sections (see 3.2b)
 │   │   ├── Unit XX - <Topic>.md           # theory note
 │   │   └── Unit XX - Exercises (<Topic>).md  # exercise workbook
@@ -94,7 +94,7 @@ grouping:
 - `01 Present and Past/` - Units 1-6
 - `02 Present Perfect and Past/` - Units 7-18
 - `03 Future/` - Units 19-25
-- `04 Modals/` - Units 26-37 (not yet written)
+- `04 Modals/` - Units 26-37 (Units 26-34 written; Units 35-37 pending)
 - further sections follow the same `NN <Book section title>` pattern as new units are added
   (`if and wish` 38-41, `Passive` 42-46, `Reported speech` 47-48, `Questions and auxiliary verbs`
   49-52, `-ing and to ...` 53-68, `Articles and nouns` 69-81, `Pronouns and determiners` 82-91,
@@ -291,6 +291,7 @@ There is no test suite; verify by hand (a short Python script is usually the fas
   Emoji inside unit notes, callouts, MOCs and `Daily/` files are expected and should be kept.
 - Do NOT commit `.obsidian/workspace.json`, OS files, `*.bak*`, `*.tmp`, `.~lock.*#`,
   `*.xlsm` or anything under `books/`.
+- `.agents/skills/` and `.claude/` are local agent tooling: keep them git-ignored and never commit them.
 - Do NOT use HTML markup when native GFM / Obsidian syntax suffices.
 - Do NOT create standalone grammar notes without linking them from both MOCs.
 - Do NOT rewrite or "improve" the approved study plan on your own initiative.
@@ -324,5 +325,6 @@ There is no test suite; verify by hand (a short Python script is usually the fas
 - **Daily dashboard:** `Daily/2026-09-14.md` through `Daily/2026-10-01.md` available (14 session
   days) with plan status in `Daily Log MOC.md`; `Today.md` points at `2026-10-01`. The plan marks
   22-25/09 and 28/09-01/10 as not studied.
+- **Local agent tooling:** `.agents/skills/` and `.claude/` are git-ignored and stay local.
 - **Next to write:** Grammar Units **35+** (*Modals* section continues through U37);
   Vocabulary Lesson **15+**; Pronunciation topics beyond session 19 as the plan advances.
