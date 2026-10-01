@@ -87,4 +87,4 @@ Cả hai đều đi với trạng từ `always`, nhưng sắc thái ý nghĩa ho
    * Các trạng từ tần suất: `always`, `usually`, `often`, `seldom`, `rarely`, `every day/year`.
 
 ---
-Trở về: [[English Grammar in Use MOC]] | [[TOEIC MOC]] | [[Home]]
+Trở về: [[English Grammar in Use MOC]] | [[TOEIC MOC]]

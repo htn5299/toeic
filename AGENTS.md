@@ -1,9 +1,6 @@
 # AGENTS.md - Working Guide for AI Agents (TOEIC Vault)
 
-This file is the **single source of truth** for every AI assistant working in this repository
-(currently: omp / oh-my-pi as the sole coding agent).
-
-Last updated: 2026-10-01
+This file is the **single source of truth** for every AI assistant working in this repository.
 
 ---
 
@@ -47,7 +44,7 @@ TOEIC Vault/
 │   └── Nguon tai lieu.md               # source/Drive links (was sheet "File")
 ├── TOEIC MOC.md                       # central Map of Content (book list + Part roadmap)
 ├── English Grammar in Use/
-│   ├── English Grammar in Use MOC.md  # grammar table of contents (Units 01-34 so far)
+│   ├── English Grammar in Use MOC.md  # grammar table of contents
 │   ├── <NN Section Name>/             # grouped by Murphy's own book sections (see 3.2b)
 │   │   ├── Unit XX - <Topic>.md           # theory note
 │   │   └── Unit XX - Exercises (<Topic>).md  # exercise workbook
@@ -110,7 +107,7 @@ grouping:
 - `01 Present and Past/` - Units 1-6
 - `02 Present Perfect and Past/` - Units 7-18
 - `03 Future/` - Units 19-25
-- `04 Modals/` - Units 26-37 (Units 26-34 written; Units 35-37 pending)
+- `04 Modals/` - Units 26-37
 - further sections follow the same `NN <Book section title>` pattern as new units are added
   (`if and wish` 38-41, `Passive` 42-46, `Reported speech` 47-48, `Questions and auxiliary verbs`
   49-52, `-ing and to ...` 53-68, `Articles and nouns` 69-81, `Pronouns and determiners` 82-91,
@@ -324,27 +321,5 @@ way:
 
 ---
 
-## 9. Current state (as of 2026-10-01)
-
-- **Grammar:** Units **01-34** complete (theory + exercises for each), grouped into
-  `01 Present and Past/` (1-6), `02 Present Perfect and Past/` (7-18), `03 Future/` (19-25),
-  `04 Modals/` (26-34 so far), and listed in `English Grammar in Use MOC.md`. Unit titles follow
-  Murphy 5th ed.
-- **Pronunciation:** 6 notes, all listed in `English Pronunciation in Use MOC.md` - `Vowel Sounds`,
-  `Consonant Sounds`, `Word Stress`, `Syllables and Connected Speech`, `Intonation and Active
-  Listening`, `Sentence Stress and Functional Intonation`. Covers every topic through the study
-  plan's session 19 (01/10/2026).
-- **Vocabulary:** two files - `TOEIC Core Vocabulary.md` (by Grammar Unit, sections through Units
-  31-34) and `600 Essential Words for TOEIC.md` (by book Lesson, Lesson 1-14 done, sourced from
-  the Vietnamese-gloss PDF's real text layer).
-- **Study plan:** fully migrated to `Study Plan/` (Markdown); the `.xlsm` is no longer read.
-  Chặng 1-4, 68 sessions found in source (Tuần 1-12; Tuần 13 missing from source, not fabricated).
-  Today's session (Thứ 5, 01/10/2026, Tuần 3) = EGIU **U31-34** + *600 Essential Words*
-  **Lesson 13-14**.
-- **Daily dashboard:** `Daily/2026-09-14.md` through `Daily/2026-10-01.md` available (14 session
-  days) with plan status in `Daily Log MOC.md`; `Today.md` points at `2026-10-01`. The plan marks
-  22-25/09 and 28/09-01/10 as not studied.
-- **Local agent tooling:** `.agents/skills/`, `.claude/` and `skills-lock.json` stay local and must
-  remain git-ignored.
-- **Next to write:** Grammar Units **35+** (*Modals* section continues through U37);
-  Vocabulary Lesson **15+**; Pronunciation topics beyond session 19 as the plan advances.
+Progress is intentionally not duplicated here. Use the relevant MOC, `Study Plan/Lo trinh 65 buoi.md`,
+`Daily/Daily Log MOC.md`, and `Today.md` as the current sources of truth.
